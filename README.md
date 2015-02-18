@@ -4,56 +4,20 @@
 
 This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for for information about their practice can have an easily accessible source. Please feel free to help out!
 
-## Centers of Practice
+## Lamas & Centers of Practice
+The link for each lama is generally their main webpage or reatreat center/monastery. The locations have the main lama in parenthesis. 
+##### North America
+**Lamas**
 
-#####India
- - Pemakod <http://www.dharmawheel.net/viewtopic.php?f=49&t=6250>
-
-##### USA
-
-
-## Texts
-
-#####In Tibetan
-
-- [Dudjom Rinpoche's collected works including tersar (Dudjom III)](http://tbrc.org/link?RID=W20869)
-- [Dudjom Lingpa's collected termas (Dudjom II)](http://tbrc.org/link?RID=W28732)
-- [Rigzin Duddul Dorje's collected termas (Dudjom I)](http://www.tbrc.org/#library_work_Object-W22123)
-
-##### Ngondro
-[Short Ngondro](http://www.tersar.org/wp-content/uploads/2014/06/ShortNgondro.Original.pdf)
-
-##### Calling the Lama
-
-##### Sadhanas
-Light of Berotsana <http://www.berotsana.org/translations-published/>
-
-##### Relevent Books
-
-#####Notes and Commentaries
-Dudjom Rinpoche:
-
- - [Brief Notes on the Visualization for the Concise Recitation of the Pure Vision Preliminary Practice](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro-notes)
- - jhsdfjkn
- 
-HH Dungse Shenphen Dawa Rinpoche
-
-- [Short Ngondro Commentary](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
- 
-Kenpo Palden Sherab Rinpoche
-
-- [Short Ngondro Commentary](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Kenpo%20Palden%20Sherab%20Rinpoche/Commentary%20On%20Ngondro.pdf/Commentary.pdf)
-
-## Teachers
-#####USA
 - [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
-- [Dzongsar Jamyang Khyentse Rinpoche](http://khyentsefoundation.org/) 
-- [Dudjom Troma Foundation](http://dudjomtroma.org/home.html)
+- [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
+- [H.H. Dungse Shenphen Dawa Rinpoche](http://www.tersar.org)
+- [Khenpo Tsewang Dongyal Rinpoche](http://www.padmasambhava.org)
 - [Khenpo Sonam Tobgyal Rinpoche](http://www.riwoche.com/SonamRinpoche.html)
 - [Lama Pema Dorje](http://sangchenpemachholing.org/)
 - [Lama Sonam Tsering](http://www.vajrayana.org/)
 - [Lama Tsering Gyaltsen](http://www.saraha.org/)
-- [Lama David Liu (Chinese)](http://www.clearlight.org/)
+- [Lama David Liu (in Chinese)](http://www.clearlight.org/)
 - [Lama Dechen Yeshe Wangmo](http://jnanasukha.org/connect)
 - [Loppon Jigme Thutop Namgyal](http://lotusdharmagarden.org/Lotus_Dharma_Garden/About_Us.html) 
 - [Ven. Lama Rinchen Phuntsok](http://www.dongakcholing.org/)
@@ -61,14 +25,92 @@ Kenpo Palden Sherab Rinpoche
 - [Ven. Bakha Tulku](http://www.vairotsana.org/our-teachers/)
 - [Ven. Gyaltrul Rinpoche](http://www.tashicholing.org/Gyatrul.html)  
 
+**Locations**
+
 California
 
-Orgyen Dorje Den
+- [Orgyen Dorje Den (Alameda)](http://www.orgyendorjeden.org)
+- [Pema Osel Ling (Watsonville)](http://www.vajrayana.org)
+- [Yeshe Nyingpo (LA)](http://www.tersar.org/?page_id=1127)
  
+Colorado
+
+- [Yeshe Nyingpo (Denver)](http://www.tersar.org/?page_id=1204)
+
+Iowa
+
+- [Saraswati Bhawan (Lansing)](http://saraswatibhawan.org/)
+
 New York
 
-- [HH Dungse Shenphen Dawa Rinpoche](http://www.tersar.org)
-- [Khenpo Tsewang Dongyal Rinpoche](http://www.padmasambhava.org)
+- [Dudjom Troma Foundation (NYC)](http://dudjomtroma.org/home.html)
+- [Orgyen Chö Dzong Retreat Center (Greenville)](http://www.tersar.org/?page_id=858)
+- [Padma Samye Ling (Sidney Center)](http://www.padmasambhava.org)
+- [Yeshe Nyingpo (NYC)](http://www.tersar.org/?page_id=946)
+
+Oregon
+
+- [Saraha Nyingma Buddhist Institute (Eguene)](http://www.saraha.org/)
+
+Toronto
+
+- [Riwoche Temple](http://www.riwoche.com/TorontoTemple.html)
+
+
+
+
+#####India
+ - Pemakod <http://www.dharmawheel.net/viewtopic.php?f=49&t=6250>
+ 
+#####Mexico
+
+- [Rigzin Osel Ling (Enseneda)](http://saraswatibhawan.org/about-us-2/rigzin-osel-ling-mexico/)
+
+
+## Texts
+
+##### Full Cycles In Tibetan
+
+- [Dudjom Rinpoche's collected works including tersar (Dudjom III)](http://tbrc.org/link?RID=W20869)
+- [Dudjom Lingpa's collected termas (Dudjom II)](http://tbrc.org/link?RID=W28732)
+- [Rigzin Duddul Dorje's collected termas (Dudjom I)](http://www.tbrc.org/#library_work_Object-W22123)
+
+
+
+##### Sadhanas
+###### Ngondro
+- [Short Ngondro (text)](http://www.tersar.org/wp-content/uploads/2014/06/ShortNgondro.Original.pdf)
+- [Short Ngondro (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=175)
+- [Short Ngondro (book, tibetan)](http://vimalatreasures.org/concise-dudjom-tersar-ngondro.aspx)
+- Light of Berotsana <http://www.berotsana.org/translations-published/>
+
+###### Calling the Lama
+
+##### Books, Notes, and Commentaries
+**Dudjom Lingpa**
+
+- [Buddhahood Without Meditation: A Visionary Account Known As Refining Apparent Phenomen](http://www.amazon.com/Buddhahood-Without-Meditation-Visionary-Refining/dp/1881847330)
+- [A Clear Mirror (autobiography)](http://www.amazon.com/gp/product/9627341673)
+
+**Dudjom Rinpoche**
+
+ - [Brief Notes on the Visualization for the Concise Recitation of the Pure Vision Preliminary Practice (text)](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro-notes)
+ - [A Torch Lighting the Way to Freedom: Complete Instructions on the Preliminary Practices](http://www.amazon.com/Torch-Lighting-Way-Freedom-Instructions/dp/159030909X/)
+ 
+**HH Dungse Shenphen Dawa Rinpoche**
+
+- [Short Ngondro Commentary (text)](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
+ 
+**Kenpo Palden Sherab Rinpoche**
+
+- [Short Ngondro Commentary (pdf)](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Kenpo%20Palden%20Sherab%20Rinpoche/Commentary%20On%20Ngondro.pdf/Commentary.pdf)
+- [Illuminating the Path: Ngondro Instructions According to the Nyingma School](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=105)
+
+
+**B. Alan Wallace**
+
+- [Stilling the Mind: Shamatha Teachings from Dudjom Lingpa's Vajra Essence](http://www.amazon.com/Stilling-Mind-Shamatha-Teachings-Lingpas/dp/0861716906/)
+
 
 ## Websites
 - <http://www.tersar.org>
