@@ -5,7 +5,19 @@
 This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for for information about their practice can have an easily accessible source. Please feel free to help out!
 
 ## Lamas & Centers of Practice
-The link for each lama is generally their main webpage or reatreat center/monastery. The locations have the main lama in parenthesis. 
+The link for each lama is generally their main webpage or reatreat center/monastery. 
+
+##### Asia
+
+**India**
+
+ - [Deden Tashi Choeling (Pemaköd)](Deden Tashi Choeling)
+  <http://www.dharmawheel.net/viewtopic.php?f=49&t=6250>
+
+##### Europe
+
+**France**
+
 ##### North America
 **Lamas**
 
@@ -20,9 +32,10 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Lama David Liu (in Chinese)](http://www.clearlight.org/)
 - [Lama Dechen Yeshe Wangmo](http://jnanasukha.org/connect)
 - [Loppon Jigme Thutop Namgyal](http://lotusdharmagarden.org/Lotus_Dharma_Garden/About_Us.html) 
+- [Tulku Orgyen P’huntsok](http://www.vairotsana.org/)
 - [Ven. Lama Rinchen Phuntsok](http://www.dongakcholing.org/)
 - [Ven. Rangrik Dorje Rinpoche](http://www.canadathromasangha.com/)
-- [Ven. Bakha Tulku](http://www.vairotsana.org/our-teachers/)
+- [Ven. Bhakha Tulku Rinpoche](http://www.vairotsana.org/our-teachers/)
 - [Ven. Gyaltrul Rinpoche](http://www.tashicholing.org/Gyatrul.html)  
 
 **Locations**
@@ -31,6 +44,7 @@ California
 
 - [Orgyen Dorje Den (Alameda)](http://www.orgyendorjeden.org)
 - [Pema Osel Ling (Watsonville)](http://www.vajrayana.org)
+- [Variotsana Foundation (Santa Barbara, Garden Grove)](http://www.vairotsana.org/)
 - [Yeshe Nyingpo (LA)](http://www.tersar.org/?page_id=1127)
  
 Colorado
@@ -40,6 +54,11 @@ Colorado
 Iowa
 
 - [Saraswati Bhawan (Lansing)](http://saraswatibhawan.org/)
+
+New Mexico
+
+- [Ösel Khandro Duwi Ling Zuni Mountain Stupa (Grants)](http://www.zunimountainstupa.org/)
+- [Orgyen Choling Dharma Center (Tularosa)](http://www.vairotsana.org/)
 
 New York
 
@@ -52,16 +71,16 @@ Oregon
 
 - [Saraha Nyingma Buddhist Institute (Eguene)](http://www.saraha.org/)
 
+Tennessee
+
+- [Padma Gochen Ling (Monterey)](http://pbc-tn.org/about-us/gochen-ling)
+- [Yeshe Sogyal House (Nashville)](http://www.pbc-tn.org)
+
 Toronto
 
 - [Riwoche Temple](http://www.riwoche.com/TorontoTemple.html)
 
 
-
-
-#####India
- - Pemakod <http://www.dharmawheel.net/viewtopic.php?f=49&t=6250>
- 
 #####Mexico
 
 - [Rigzin Osel Ling (Enseneda)](http://saraswatibhawan.org/about-us-2/rigzin-osel-ling-mexico/)
@@ -113,8 +132,11 @@ Toronto
 
 
 ## Websites
-- <http://www.tersar.org>
-- <http://www.dudjomfoundation.org>
+- [84,000](http://84000.co/)
+- [Dharma Wheel Forums](http://www.dharmawheel.net/viewforum.php?f=40)
+- [Lotsawa House](http://www.lotsawahouse.org/)
+- [Rigpa Shedra Wiki](http://www.rigpawiki.org/)
+- [Tsogyal Learning & Practice Center](http://tsogyalonlinecourses.com)
 
 ## Audio & Video
 
