@@ -7,6 +7,8 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 ## Lamas
 The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
 
+- [**Dudjom Rinpoche III Sangye Pema Zhepa**](http://www.dudjomspz.org/biography/bb)
+- [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche)
 - [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
 - [Dungse Garab Rinpoche](http://www.pramodavajra.org/index.php?do=page&locid=2002&topid=2&tpid=154)
 - [H.H. Dungse Shenphen Dawa Rinpoche](http://www.tersar.org)
@@ -16,7 +18,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Lama Pema Dorje](http://sangchenpemachholing.org/)
 - [Lama Sonam Tsering](http://www.vajrayana.org/)
 - [Lama Tsering Gyaltsen](http://www.saraha.org/)
-- [Lama David Liu (in Chinese)](http://www.clearlight.org/)
+- [Lama David Liu](http://www.clearlight.org/)
 - [Lama Dechen Yeshe Wangmo](http://jnanasukha.org/connect)
 - [Lama Rigdzin P'huntsok](http://pemakoddharmawheel.org/lineage/)
 - [Loppon Jigme Thutop Namgyal](http://lotusdharmagarden.org/Lotus_Dharma_Garden/About_Us.html) 
@@ -37,6 +39,8 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - Thegchhog Kunzang Chhodon Nunnery
 - Yonphula Lhakhang
 
+**Hong Kong**
+
 **India**
 
  - [Deden Tashi Choeling (Pemakö)](http://pemakoddharmawheel.org/)
@@ -50,6 +54,8 @@ The link for each lama is generally their main webpage or reatreat center/monast
  - [Urgyen Sangnag Chöling (Spiti)](http://sangnagcholing.org/)
  - Zangdokpalri Monastery (Kalimpong)
 
+**Malaysia**
+
 **Nepal**
 
 - Dudjom Gompa (Boudnath)
@@ -61,6 +67,10 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Kalmykia Pema Tsokye Dorje Ling (Elista)](http://www.padmasambhava.r08.ru/)
 - [Padmasambhava Buddhist Center (Moscow)](http://padmasambhava.ru/)
 - [Padmasambhava Buddhist Center (Stavropol)](http://www.padmasambhava.org/centers.html)
+
+**Taiwan**
+
+- [台灣 台北 寧瑪派 明心精舍 & 噶舉派 直貢弘法林 & 桃園 閉關中心 (Taipei)](http://www.clearlight.org/center.php)
 
 **Tibet**
 
@@ -77,6 +87,8 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - Namkha Khyung Dzong
 
 #### Australia
+
+- Pema Dorje
 
 #### Europe
 
@@ -113,7 +125,14 @@ Slovakia
 
 Spain
 
+- [Can Camps (Girona)](http://www.nyingmatersar.es/mandala)
+- [Namkha Dzong](http://www.rigdzin-community.org/index.php/rigdzin-community/namkha-dzong-retreat-center)
+
 Switzerland
+
+- [Thegchok Ling (Lausanne)](http://www.rigdzin.ch/)
+
+
 
 UK
 
@@ -132,6 +151,7 @@ California
 - [Chagdud Gonpa (Chico)](http://chagdudgonpa.org/directory/)
 - [Chagdud Gonpa (San Francisco)](http://chagdudgonpa.org/directory/)
 - [Chhö Khor Ling (Arcata)](http://chagdudgonpa.org/directory/)
+- [Lotus Dharma Garden (Fairfax)](http://lotusdharmagarden.org)
 - [Orgyen Dorje Den (Alameda)](http://www.orgyendorjeden.org)
 - [Osel Nyingpo (Ojai)](http://www.oselnyingpo.org/)
 - [Padmasambhava Buddhist Center (El Cerrito)](http://www.padmasambhava.org/centers.html)
@@ -141,12 +161,16 @@ California
 - [Thondup Ling (LA)](http://www.thondupling.org/)
 - [Variotsana Foundation (Santa Barbara, Garden Grove)](http://www.vairotsana.org/)
 - [Yeshe Nyingpo (LA)](http://www.tersar.org/?page_id=1127)
+- [美國 南加州 洛杉磯 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (El Monte)](http://www.clearlight.org/center.php)
+- [美國 北加州 矽谷 桑尼維爾 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Sunnyvale)](http://www.clearlight.org/center.php)
  
 Canada
 
-- [Padmasambhava Buddhist Center (Montreal, Quebec)](http://www.padmasambhava.org/centers.html)
+- [Dudjom Throma Sangha (Toronto)](https://www.facebook.com/pages/Dudjom-Throma-Sangha-Canada/)
+- [Padmasambhava Buddhist Center (Montreal)](http://www.padmasambhava.org/centers.html)
 - [Padmasambhava Buddhist Center (St. Sauveur, Quebec)](http://www.padmasambhava.org/centers.html)
 - [Riwoche Temple (Toronto)](http://www.riwoche.com/TorontoTemple.html)
+- [加拿大 多倫多 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Toronto)](http://www.clearlight.org/center.php)
 
 Colorado
 
@@ -178,6 +202,10 @@ Minnesota
 
 - [Chagdud Gonpa (Minneapolis)](http://chagdudgonpa.org/directory/)
 
+Missouri
+
+- [Do Ngak Choling (St. Louis)](http://www.dongakcholing.org/PracticeSchedule.html)
+
 Montana
 
 - [Chagdud Gonpa (Helena)](http://chagdudgonpa.org/directory/)
@@ -206,6 +234,7 @@ New York
 - [Padmasambhava Buddhist Center (Ithaca)](http://www.padmasambhava.org/centers.html)
 - [Padmasambhava Buddhist Center (NYC)](http://www.padmasambhava.org/centers.html)
 - [Yeshe Nyingpo (NYC)](http://www.tersar.org/?page_id=946)
+- [美國 紐約 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Flushing)](http://www.clearlight.org/center.php)
 
 North Carolina
 
@@ -255,16 +284,54 @@ Washington
 
 #### South America
 
-**Brazil**
+#####**Brazil**
 
-- Chagdud Gonpa, Três Coroas
-- Dudjom Tersar Brazil
+- - **Mid-West**
+- [Chagdud Gonpa (Goiânia)](http://br.chagdud.org/regiao-centro-oeste)
+- [Padma Ling (Brasília)](http://pl-chagdud.org)
+- - **North**
+- [Trom Gue Phel Ling (Manaus)](http://br.chagdud.org/regiao-norte/)
+- - **North-East**
+- [Dordje Tso (Fortaleza)](http://br.chagdud.org/regiao-nordeste/)
+- [Ieshe Tso (Natal)](http://br.chagdud.org/regiao-nordeste/)
+- [Norbu Ling (Salvador)](http://br.chagdud.org/regiao-nordeste/)
+- - **South**
+- [Chagdud Gonpa (Matinhos)](http://br.chagdud.org/regiao-sul)
+- [Chagdud Gonpa (Novo Hamburgo)](http://br.chagdud.org/regiao-sul)
+- [Chagdud Gonpa (Passo Fundo)](http://br.chagdud.org/regiao-sul)
+- [Chagdud Gonpa (Taquara)](http://br.chagdud.org/regiao-sul)
+- [Dordje Ling (Curitiba)](http://dordjeling.org/)
+- [Khadro Ling (Três Coroas)](http://kl.chagdud.org)
+- [Ordjen Kachod Ling (Garopaba)](http://www.ordjen-katchod-ling.com/)
+- [Rigdjed Ling (Florianópolis)](http://www.rigdjed.org/)
+- [Tchimed Ling (Santa Maria)](http://br.chagdud.org/regiao-sul/)
+- [Yeshe Ling (Porto Alegre)](http://yesheling.blogspot.com/)
+- [Yeshe Melong (Caxias do Sul)](http://br.chagdud.org/regiao-sul/)
+- - **South-East**
+- [Chagdud Gonpa (Campinas)](http://br.chagdud.org/regiao-sudeste/)
+- [Chagdud Gonpa (Uberlândia)](http://br.chagdud.org/regiao-sudeste/)
+- [Dawa Drolma (Belo Horizonte)](http://www.dawadrolma.org/)
+- [Dechen Ling (Nova Friburgo)](http://br.chagdud.org/regiao-sudeste/)
+- [Ngo Drub Ling (Formiga)](http://br.chagdud.org/regiao-sudeste/)
+- [Ngöy Drub Ling (Lambari)](http://br.chagdud.org/regiao-sudeste/)
+- [Odsal Ling (São Paulo)](http://odsalling.org/)
+- [Pedgyal Ling (Rio de Janeiro)](http://www.pedgyal.org/)
+- [Sam Drub Ling (Vitória)](http://www.samdrubling.cjb.net)
 
 **Chile**
 
+- [Chagdud Gonpa (Santiago)](http://www.chagdudgonpachile.com/)
+
 **Uruguay**
 
+- [Chagdud Gonpa (Florida)](http://www.budismo.com.uy/)
+- [Chagdud Gonpa (Minas)](http://www.budismo.com.uy/)
+- [Chagdud Gonpa (Montevideo)](http://www.budismo.com.uy/)
+- [Sengue Dzong (Mérida)](http://www.budismo.com.uy/)
+
 **Venezuela**
+
+- [Chagdud Gonpa (Mérida)](http://www.chagdudhispano.org/venezuela.html)
 
 
 
@@ -324,11 +391,15 @@ Dudjom Tersar texts or related materials and commentaries
 - [Dharma Wheel Forums](http://www.dharmawheel.net/viewforum.php?f=40)
 - [Light of Berotsana](http://www.berotsana.org/)
 - [Lotsawa House](http://www.lotsawahouse.org/)
+- [Rigpa Tibetan Buddhist Google Calendar](https://www.google.com/calendar/embed?src=26ftvg0e75ng7k2qctpocrko3c@group.calendar.google.com)
 - [Rigpa Shedra Wiki](http://www.rigpawiki.org/)
 - [Tsogyal Learning & Practice Center](http://tsogyalonlinecourses.com)
 - [Vimala Treasures](http://vimalatreasures.org/)
 
 ## Audio & Video
+
+- [Dzongsar Jamyang Khyentse Podcast](http://www.khyentserecordings.org/namo/Podcasts)
+- [Vajrayana Foundation on Vimeo](https://vimeo.com/vajrayana)
 
 ## Images
 
