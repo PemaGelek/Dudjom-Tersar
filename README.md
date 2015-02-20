@@ -30,6 +30,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 
 
 ## Centers of Practice
+Not every center or group is necessarily practicing only the Dudjom Tersar, but I believe each one should be where a beginner could at least get a ngondro iniation or pointed in the right direction. Students further along the path can check the webpages to see what's available.
 #### Asia
 
 **Bhutan**
@@ -43,16 +44,16 @@ The link for each lama is generally their main webpage or reatreat center/monast
 
 **India**
 
- - [Deden Tashi Choeling (Pemakö)](http://pemakoddharmawheel.org/)
-  - [Duddul Raptenling (Orissa)](http://duddulraptenling.blogspot.in/)
+- [Deden Tashi Choeling (Pemakö)](http://pemakoddharmawheel.org/)
+- [Duddul Raptenling (Orissa)](http://duddulraptenling.blogspot.in/)
 -  [Lundrup Topgye Ling (Pemakö)](http://www.loponpogyantanzin.com/#!about1/ck8c)
- - [Ogyan Chokor Ling (Sarnath)](http://www.loponpogyantanzin.com/#!ogyan-chokor-ling/csy7)
- - [Orgyen Samye Chokhor Ling (Sarnath)](http://www.pbcindia.com/)
- - [Padma Samye Chokor Ling (Sarnath)](http://www.padmasambhava.org/centers.html)
- - [Tekchok Ösel Chöling (Pemakö)](http://pemakoddharmawheel.org/)
- - Tso Pema Orgyen Heruka Nyingmapa Gompa, Tso Pema, Rewalsar
- - [Urgyen Sangnag Chöling (Spiti)](http://sangnagcholing.org/)
- - Zangdokpalri Monastery (Kalimpong)
+- [Ogyan Chokor Ling (Sarnath)](http://www.loponpogyantanzin.com/#!ogyan-chokor-ling/csy7)
+- [Orgyen Samye Chokhor Ling (Sarnath)](http://www.pbcindia.com/)
+- [Padma Samye Chokor Ling (Sarnath)](http://www.padmasambhava.org/centers.html)
+- [Tekchok Ösel Chöling (Pemakö)](http://pemakoddharmawheel.org/)
+- Tso Pema Orgyen Heruka Nyingmapa Gompa, Tso Pema, Rewalsar
+- [Urgyen Sangnag Chöling (Spiti)](http://sangnagcholing.org/)
+- Zangdokpalri Monastery (Kalimpong)
 
 **Malaysia**
 
@@ -74,7 +75,6 @@ The link for each lama is generally their main webpage or reatreat center/monast
 
 **Tibet**
 
-- Lower Ser Valley
 - Lama Rong aka Larung Gar, Serta (Upper Ser Valley)
 - Mardo Tashi Chöling Monastery (Golok)
 - Dartsang Kalzang Gonpa aka Dartsang Gonpa (Golok)
@@ -168,7 +168,7 @@ Canada
 
 - [Dudjom Throma Sangha (Toronto)](https://www.facebook.com/pages/Dudjom-Throma-Sangha-Canada/)
 - [Padmasambhava Buddhist Center (Montreal)](http://www.padmasambhava.org/centers.html)
-- [Padmasambhava Buddhist Center (St. Sauveur, Quebec)](http://www.padmasambhava.org/centers.html)
+- [Padmasambhava Buddhist Center (St. Sauveur)](http://www.padmasambhava.org/centers.html)
 - [Riwoche Temple (Toronto)](http://www.riwoche.com/TorontoTemple.html)
 - [加拿大 多倫多 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Toronto)](http://www.clearlight.org/center.php)
 
@@ -348,37 +348,58 @@ Dudjom Tersar texts or related materials and commentaries
 
 
 ##### Sadhanas
+
+One should seek a qualified lama and receive an permission and detailed instructions before attempting ANY practice!
+
 **Ngondro**
  
 - [Short Ngondro (text)](http://www.tersar.org/wp-content/uploads/2014/06/ShortNgondro.Original.pdf)
 - [Short Ngondro (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=175)
 - [Short Ngondro (book, tibetan)](http://vimalatreasures.org/concise-dudjom-tersar-ngondro.aspx)
-- Light of Berotsana <http://www.berotsana.org/translations-published/>
 
 **Calling the Lama from Afar**
 
 - [A Spontaneous Song of the Primordial Nature](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html)
 
+Anything beyond that will likely require permission to view. Excellent sources of texts and translations include:
 
-##### Books, Notes, and Commentaries
+- [Bero Jeydren Publications](http://www.dharmatreasures.com/categories/Books-%26-Practice-Texts/)
+- [Light of Berotsana](http://www.berotsana.org/translations-published)
+- [Vimala Treasures](http://vimalatreasures.org/)
+
+
+
+**Ngondro Commentaries**
+
+Dudjom Rinpoche
+
+ - [Brief Notes on the Visualization for the Concise Recitation of the Pure Vision Preliminary Practice (text)](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro-notes)
+ - [A Torch Lighting the Way to Freedom: Complete Instructions on the Preliminary Practices (book)](http://www.amazon.com/Torch-Lighting-Way-Freedom-Instructions/dp/159030909X/)
+ 
+HH Dungse Shenphen Dawa Rinpoche
+
+- [Short Ngondro Commentary (text)](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
+ 
+Khenchen Palden Sherab Rinpoche
+
+- [Short Ngondro Commentary (pdf)](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Kenpo%20Palden%20Sherab%20Rinpoche/Commentary%20On%20Ngondro.pdf/Commentary.pdf)
+- [Illuminating the Path: Ngondro Instructions According to the Nyingma School (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=105)
+
+Lama Tharchin Rinpoche
+
+- [A commentary on the Dudjom Tersar Ngondro (book)](http://www.dharmatreasures.com/a-commentary-on-the-dudjom-tersar-ngondro-by-lama-tharchin-rinpoche/)
+
+Ven. Gyatrul Rinpoche
+
+- [Commentary to the Dudjom Tersar Preliminary Practice (Book)](http://vimalatreasures.org/commentary-to-the-dudjom-tersar.aspx)
+
+
+
+## Books
 **Dudjom Lingpa**
 
 - [Buddhahood Without Meditation: A Visionary Account Known As Refining Apparent Phenomen](http://www.amazon.com/Buddhahood-Without-Meditation-Visionary-Refining/dp/1881847330)
 - [A Clear Mirror (autobiography)](http://www.amazon.com/gp/product/9627341673)
-
-**Dudjom Rinpoche**
-
- - [Brief Notes on the Visualization for the Concise Recitation of the Pure Vision Preliminary Practice (text)](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro-notes)
- - [A Torch Lighting the Way to Freedom: Complete Instructions on the Preliminary Practices](http://www.amazon.com/Torch-Lighting-Way-Freedom-Instructions/dp/159030909X/)
- 
-**HH Dungse Shenphen Dawa Rinpoche**
-
-- [Short Ngondro Commentary (text)](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
- 
-**Kenpo Palden Sherab Rinpoche**
-
-- [Short Ngondro Commentary (pdf)](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Kenpo%20Palden%20Sherab%20Rinpoche/Commentary%20On%20Ngondro.pdf/Commentary.pdf)
-- [Illuminating the Path: Ngondro Instructions According to the Nyingma School](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=105)
 
 
 **B. Alan Wallace**
@@ -395,6 +416,11 @@ Dudjom Tersar texts or related materials and commentaries
 - [Rigpa Shedra Wiki](http://www.rigpawiki.org/)
 - [Tsogyal Learning & Practice Center](http://tsogyalonlinecourses.com)
 - [Vimala Treasures](http://vimalatreasures.org/)
+
+**Free Teachings**
+
+- [Ven. Gyatrul Rinpoche](http://vimalatreasures.org/free-downloads.aspx)
+
 
 ## Audio & Video
 
