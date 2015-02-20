@@ -4,14 +4,13 @@
 
 This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for for information about their practice can have an easily accessible source. Please feel free to help out!
 
-## Lamas & Centers of Practice
-The link for each lama is generally their main webpage or reatreat center/monastery. 
-
-####**Lamas**
+## Lamas
+The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
 
 - [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
-- [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
+- [Dungse Garab Rinpoche](http://www.pramodavajra.org/index.php?do=page&locid=2002&topid=2&tpid=154)
 - [H.H. Dungse Shenphen Dawa Rinpoche](http://www.tersar.org)
+- [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
 - [Khenpo Tsewang Dongyal Rinpoche](http://www.padmasambhava.org)
 - [Khenpo Sonam Tobgyal Rinpoche](http://www.riwoche.com/SonamRinpoche.html)
 - [Lama Pema Dorje](http://sangchenpemachholing.org/)
@@ -27,8 +26,9 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Ven. Bhakha Tulku Rinpoche](http://www.vairotsana.org/our-teachers/)
 - [Ven. Gyaltrul Rinpoche](http://www.tashicholing.org/Gyatrul.html)  
 
-####Centers of Practice
-##### Asia
+
+## Centers of Practice
+#### Asia
 
 **Bhutan**
 
@@ -39,8 +39,9 @@ The link for each lama is generally their main webpage or reatreat center/monast
 
 **India**
 
- - [Deden Tashi Choeling (Pemaköd)](http://pemakoddharmawheel.org/)
+ - [Deden Tashi Choeling (Pemakö)](http://pemakoddharmawheel.org/)
   - [Duddul Raptenling (Orissa)](http://duddulraptenling.blogspot.in/)
+-  [Lundrup Topgye Ling (Pemakö)](http://www.loponpogyantanzin.com/#!about1/ck8c)
  - [Ogyan Chokor Ling (Sarnath)](http://www.loponpogyantanzin.com/#!ogyan-chokor-ling/csy7)
  - [Orgyen Samye Chokhor Ling (Sarnath)](http://www.pbcindia.com/)
  - [Padma Samye Chokor Ling (Sarnath)](http://www.padmasambhava.org/centers.html)
@@ -75,27 +76,50 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - Lama Ling (Kongpo)
 - Namkha Khyung Dzong
 
-##### Australia
+#### Australia
 
-##### Europe
+#### Europe
+
+Austria
+
+- [Lopon Ogyan Tanzin Rinpoche (Maria Lankowitz)](http://www.loponpogyantanzin.com)
 
 France
 
+- [Lopon Ogyan Tanzin Rinpoche (Toulouse)](http://www.loponpogyantanzin.com)
 - Urgyen Samyé Chöling (Dordorgne)
 
 Germany
+
+- [Lopon Ogyan Tanzin Rinpoche (Gottingen)](http://www.loponpogyantanzin.com)
+- [Lopon Ogyan Tanzin Rinpoche (Munich)](http://www.loponpogyantanzin.com)
 
 Latvia
 
 - [Padmasambhava Buddhist Center (Riga)](http://www.padmasambhava.org/centers.html)
 
+Malta
+
+- [Lopon Ogyan Tanzin Rinpoche](http://www.loponpogyantanzin.com)
+
 Poland
+
+- [Kuntuzangpo (Szczecin)](http://kuntuzangpo.net/Home.html)
+- [Lopon Ogyan Tanzin Rinpoche (Warsaw)](http://www.loponpogyantanzin.com)
+
+Slovakia
+
+- [Lopon Ogyan Tanzin Rinpoche (Vzdelávacie centrum Zaježová )](http://www.loponpogyantanzin.com)
 
 Spain
 
 Switzerland
 
-##### U.S. & Canada
+UK
+
+- [Lopon Ogyan Tanzin Rinpoche (London)](http://www.loponpogyantanzin.com)
+
+#### U.S. & Canada
 
 Alaska
 
@@ -224,17 +248,24 @@ Washington
 
 
 
-#####Mexico
+####Mexico
 
 - [Yeshe Nyingpo (Enseneda)](http://www.yeshenyingpomexico.blogspot.in/)
 - [Rigzin Osel Ling (Enseneda)](http://saraswatibhawan.org/about-us-2/rigzin-osel-ling-mexico/)
 
-##### South America
+#### South America
 
 **Brazil**
 
 - Chagdud Gonpa, Três Coroas
 - Dudjom Tersar Brazil
+
+**Chile**
+
+**Uruguay**
+
+**Venezuela**
+
 
 
 
