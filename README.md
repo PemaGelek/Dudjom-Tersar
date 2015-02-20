@@ -19,6 +19,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Lama Tsering Gyaltsen](http://www.saraha.org/)
 - [Lama David Liu (in Chinese)](http://www.clearlight.org/)
 - [Lama Dechen Yeshe Wangmo](http://jnanasukha.org/connect)
+- [Lama Rigdzin P'huntsok](http://pemakoddharmawheel.org/lineage/)
 - [Loppon Jigme Thutop Namgyal](http://lotusdharmagarden.org/Lotus_Dharma_Garden/About_Us.html) 
 - [Tulku Orgyen P’huntsok](http://www.vairotsana.org/)
 - [Ven. Lama Rinchen Phuntsok](http://www.dongakcholing.org/)
@@ -29,11 +30,20 @@ The link for each lama is generally their main webpage or reatreat center/monast
 ####Centers of Practice
 ##### Asia
 
+**Bhutan**
+
+- Bartsham Drubdra
+- Rangjung Woesel Choeling Monastery
+- Thegchhog Kunzang Chhodon Nunnery
+- Yonphula Lhakhang
+
 **India**
 
  - [Deden Tashi Choeling (Pemaköd)](http://pemakoddharmawheel.org/)
   - [Duddul Raptenling (Orissa)](http://duddulraptenling.blogspot.in/)
  - [Ogyan Chokor Ling (Sarnath)](http://www.loponpogyantanzin.com/#!ogyan-chokor-ling/csy7)
+ - [Orgyen Samye Chokhor Ling (Sarnath)](http://www.pbcindia.com/)
+ - [Padma Samye Chokor Ling (Sarnath)](http://www.padmasambhava.org/centers.html)
  - [Tekchok Ösel Chöling (Pemakö)](http://pemakoddharmawheel.org/)
  - Tso Pema Orgyen Heruka Nyingmapa Gompa, Tso Pema, Rewalsar
  - [Urgyen Sangnag Chöling (Spiti)](http://sangnagcholing.org/)
@@ -41,11 +51,29 @@ The link for each lama is generally their main webpage or reatreat center/monast
 
 **Nepal**
 
+- Dudjom Gompa (Boudnath)
+- [Namkha Khyung Dzong (Humla)](http://namkhyung.org/)
+- [Nyingmapa Wishfulfilling Center for Study and Practice (Kathmandu)](http://dojoling.com/)
+
 **Russia**
 
 - [Kalmykia Pema Tsokye Dorje Ling (Elista)](http://www.padmasambhava.r08.ru/)
 - [Padmasambhava Buddhist Center (Moscow)](http://padmasambhava.ru/)
 - [Padmasambhava Buddhist Center (Stavropol)](http://www.padmasambhava.org/centers.html)
+
+**Tibet**
+
+- Lower Ser Valley
+- Lama Rong aka Larung Gar, Serta (Upper Ser Valley)
+- Mardo Tashi Chöling Monastery (Golok)
+- Dartsang Kalzang Gonpa aka Dartsang Gonpa (Golok)
+- Awo Sera Monastery
+- Sichen Monastery
+- Dzagyal Monastery (Dzachukha)
+- Khorlo Dratsang, Terkong Nang (Upper Pemakö)
+- Yang Gon Cho Khor Ling (Upper Pemakö)
+- Lama Ling (Kongpo)
+- Namkha Khyung Dzong
 
 ##### Australia
 
@@ -57,6 +85,10 @@ France
 
 Germany
 
+Latvia
+
+- [Padmasambhava Buddhist Center (Riga)](http://www.padmasambhava.org/centers.html)
+
 Poland
 
 Spain
@@ -65,17 +97,36 @@ Switzerland
 
 ##### U.S. & Canada
 
+Alaska
+
+- [Tromge Ling (Anchorage)](http://www.tromgeling.org/)
+
 California
 
-- Chagdud Gompa (Junction City)
+
+- [Ati Ling (Cazadero)](http://www.atiling.org/)
+- [Chagdud Gonpa (Chico)](http://chagdudgonpa.org/directory/)
+- [Chagdud Gonpa (San Francisco)](http://chagdudgonpa.org/directory/)
+- [Chhö Khor Ling (Arcata)](http://chagdudgonpa.org/directory/)
 - [Orgyen Dorje Den (Alameda)](http://www.orgyendorjeden.org)
 - [Osel Nyingpo (Ojai)](http://www.oselnyingpo.org/)
+- [Padmasambhava Buddhist Center (El Cerrito)](http://www.padmasambhava.org/centers.html)
 - [Pema Osel Ling (Watsonville)](http://www.vajrayana.org)
+- [P’huntsog Ling (Santa Barbara)](http://chagdudgonpa.org/directory/)
+- [Rigdzin Ling, Chagdud Gonpa (Junction City)](http://chagdudgonpa.org/)
+- [Thondup Ling (LA)](http://www.thondupling.org/)
 - [Variotsana Foundation (Santa Barbara, Garden Grove)](http://www.vairotsana.org/)
 - [Yeshe Nyingpo (LA)](http://www.tersar.org/?page_id=1127)
  
+Canada
+
+- [Padmasambhava Buddhist Center (Montreal, Quebec)](http://www.padmasambhava.org/centers.html)
+- [Padmasambhava Buddhist Center (St. Sauveur, Quebec)](http://www.padmasambhava.org/centers.html)
+- [Riwoche Temple (Toronto)](http://www.riwoche.com/TorontoTemple.html)
+
 Colorado
 
+- [Chokdrup Ling (Dove Creek)](http://www.chokdrupling.org/)
 - [Yeshe Nyingpo (Denver)](http://www.tersar.org/?page_id=1204)
 
 Florida
@@ -86,32 +137,70 @@ Florida
 - [Padmasambhava Buddhist Center (Tampa)](http://www.pbctampabay.org/)
 - [Palm Beach Dharma Center (Lake Worth)](http://www.pbdc.net/)
 
+Georgia
+
+- [Padmasambhava Buddhist Center (Atlanta)](http://www.padmasambhava.org/centers.html)
+
+Illinois
+
+- [Chagdud Gonpa (Chicago)](http://chagdudgonpa.org/directory/)
+- [Padmasambhava Buddhist Center (Chicago)](http://www.chicagopbc.org/)
+
 Iowa
 
 - [Saraswati Bhawan & Phurba Thinley Ling (Lansing)](http://saraswatibhawan.org/)
 
+Minnesota
+
+- [Chagdud Gonpa (Minneapolis)](http://chagdudgonpa.org/directory/)
+
 Montana
 
+- [Chagdud Gonpa (Helena)](http://chagdudgonpa.org/directory/)
 - [Namdroling Montana (Bozeman)](http://www.namdrolingmt.org/)
+
+Nevada
+
+- [Chagdud Gonpa (Reno)](http://chagdudgonpa.org/directory/)
 
 New Mexico
 
 - [Ösel Khandro Duwi Ling Zuni Mountain Stupa (Grants)](http://www.zunimountainstupa.org/)
 - [Orgyen Choling Dharma Center (Tularosa)](http://www.vairotsana.org/)
 
+New Jersey
+
+- [Padmasambhava Buddhist Center (Princeton)](http://www.padmasambhava.org/centers.html)
+
 New York
 
+- [Chagdud Gonpa (Ithaca)](http://chagdudgonpa.org/directory/)
+- [Chagdud Gonpa (Syracuse)](http://chagdudgonpa.org/directory/)
 - [Dudjom Troma Foundation (NYC)](http://dudjomtroma.org/home.html)
 - [Orgyen Chö Dzong Retreat Center (Greenville)](http://www.tersar.org/?page_id=858)
 - [Padma Samye Ling (Sidney Center)](http://www.padmasambhava.org)
+- [Padmasambhava Buddhist Center (Ithaca)](http://www.padmasambhava.org/centers.html)
+- [Padmasambhava Buddhist Center (NYC)](http://www.padmasambhava.org/centers.html)
 - [Yeshe Nyingpo (NYC)](http://www.tersar.org/?page_id=946)
+
+North Carolina
+
+- [Padmasambhava Buddhist Center (Asheville)](http://www.padmasambhava.org/centers.html)
 
 Oregon
 
+- [Chagdud Gonpa (Corvallis)](http://chagdudgonpa.org/directory/)
+- [Dechhen Ling (Cottage Grove)](http://chagdudgonpa.org/directory/)
 - [Dorje Ling (Portland)](http://www.dorjeling.info/Home_Page.html)
+- [Minjur Ling (Ashland)](http://chagdudgonpa.org/directory/)
 - [Natural Mind Dharma Center (Bend)](naturalminddharma.org)
+- [Rigdzin Gatsal (Williams)](http://chagdudgonpa.org/directory/)
 - [Saraha Nyingma Buddhist Institute (Eguene)](http://www.saraha.org/)
 - [Tashi Chöling Center for Buddhist Studies (Ashland)](http://www.tashicholing.org/)
+
+Puerto Rico
+
+- [Centro Budista Padmasambhava de P.R. (Santurce)](http://padmasambhavapr.org/)
 
 Tennessee
 
@@ -122,9 +211,17 @@ Texas
 
 - [Palri Pema Od Ling (Austin)](http://www.palri.org/)
 
-Toronto
+Utah
 
-- [Riwoche Temple](http://www.riwoche.com/TorontoTemple.html)
+- [Chagdud Gonpa (Monticello)](http://chagdudgonpa.org/directory/)
+
+Washington
+
+- [Amrita (Edmonds)](http://www.amritaseattle.org/)
+- [Chagdud Gonpa (Orcas Island)](http://chagdudgonpa.org/directory/)
+- [Chagdud Gonpa (Wenatchee)](http://chagdudgonpa.org/directory/)
+- [Padma Ling (Spokane)](http://chagdudgonpapadmaling.com/)
+
 
 
 #####Mexico
@@ -134,13 +231,17 @@ Toronto
 
 ##### South America
 
+**Brazil**
+
+- Chagdud Gonpa, Três Coroas
 - Dudjom Tersar Brazil
 
 
 
 ## Texts
+Dudjom Tersar texts or related materials and commentaries
 
-##### Full Cycles In Tibetan
+##### Full Dudjom Tersar Cycles In Tibetan
 
 - [Dudjom Rinpoche's collected works including tersar (Dudjom III)](http://tbrc.org/link?RID=W20869)
 - [Dudjom Lingpa's collected termas (Dudjom II)](http://tbrc.org/link?RID=W28732)
