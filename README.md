@@ -310,13 +310,11 @@ Washington
 - - **North**
 - [Trom Gue Phel Ling (Manaus)](http://br.chagdud.org/regiao-norte/)
 - - **North-East**
-- [Dordje Tso (Fortaleza)](http://br.chagdud.org/regiao-nordeste/)
-- [Ieshe Tso (Natal)](http://br.chagdud.org/regiao-nordeste/)
-- [Norbu Ling (Salvador)](http://br.chagdud.org/regiao-nordeste/)
+- [Chagdud Gonpa (Fortaleza)](http://br.chagdud.org/regiao-nordeste/)
+- [Yeshe Tso (Natal)](http://br.chagdud.org/regiao-nordeste/)
 - - **South**
 - [Chagdud Gonpa (Matinhos)](http://br.chagdud.org/regiao-sul)
 - [Chagdud Gonpa (Novo Hamburgo)](http://br.chagdud.org/regiao-sul)
-- [Chagdud Gonpa (Passo Fundo)](http://br.chagdud.org/regiao-sul)
 - [Chagdud Gonpa (Taquara)](http://br.chagdud.org/regiao-sul)
 - [Dordje Ling (Curitiba)](http://dordjeling.org/)
 - [Khadro Ling (Três Coroas)](http://kl.chagdud.org)
