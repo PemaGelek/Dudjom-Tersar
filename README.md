@@ -30,7 +30,10 @@ The link for each lama is generally their main webpage or reatreat center/monast
 
 
 ## Centers of Practice
-Not every center or group is necessarily practicing only the Dudjom Tersar, but I believe each one should be where a beginner could at least get a ngondro iniation or pointed in the right direction. Students further along the path can check the webpages to see what's available.
+Not every center or group is necessarily practicing only the Dudjom Tersar, but I believe each one should be where a beginner could at least get a ngondro iniation or is a practice group affiliated with a Dudjom Tersar carrying lama. Students further along the path can check the webpages to see what's available for teaching and retreats.
+
+[MAP](https://www.google.com/maps/d/edit?mid=zuLZC0Jk5ldI.kMbgVwTubtSs) to every location below according to the info available. Tibetan locations are currently not pinned.
+
 #### Asia
 
 **Bhutan**
@@ -51,7 +54,7 @@ Not every center or group is necessarily practicing only the Dudjom Tersar, but 
 - [Orgyen Samye Chokhor Ling (Sarnath)](http://www.pbcindia.com/)
 - [Padma Samye Chokor Ling (Sarnath)](http://www.padmasambhava.org/centers.html)
 - [Tekchok Ösel Chöling (Pemakö)](http://pemakoddharmawheel.org/)
-- Tso Pema Orgyen Heruka Nyingmapa Gompa, Tso Pema, Rewalsar
+- Tso Pema Orgyen Heruka Nyingmapa Gompa (Rewalsar)
 - [Urgyen Sangnag Chöling (Spiti)](http://sangnagcholing.org/)
 - Zangdokpalri Monastery (Kalimpong)
 
@@ -59,7 +62,7 @@ Not every center or group is necessarily practicing only the Dudjom Tersar, but 
 
 **Nepal**
 
-- Dudjom Gompa (Boudnath)
+- Dudjom Gompa (Boudhanath)
 - [Namkha Khyung Dzong (Humla)](http://namkhyung.org/)
 - [Nyingmapa Wishfulfilling Center for Study and Practice (Kathmandu)](http://dojoling.com/)
 
@@ -94,17 +97,19 @@ Not every center or group is necessarily practicing only the Dudjom Tersar, but 
 
 Austria
 
-- [Lopon Ogyan Tanzin Rinpoche (Maria Lankowitz)](http://www.loponpogyantanzin.com)
+- [Lopon P Ogyan Tanzin Rinpoche (Maria Lankowitz)](http://www.loponpogyantanzin.com)
 
 France
 
-- [Lopon Ogyan Tanzin Rinpoche (Toulouse)](http://www.loponpogyantanzin.com)
-- Urgyen Samyé Chöling (Dordorgne)
+- [Lopon P Ogyan Tanzin Rinpoche (Toulouse)](http://www.loponpogyantanzin.com)
+- [Oddiyana (Marchainville)](http://www.lamatashi-oddiyana.com/)
+- [Shedup Kunsang Chöling (Septvaux)](http://www.shedup-kunsang-choling.com/)
+- [Urgyen Samyé Chöling (Dordorgne)](http://www.dudjom-tersar.org/)
 
 Germany
 
-- [Lopon Ogyan Tanzin Rinpoche (Gottingen)](http://www.loponpogyantanzin.com)
-- [Lopon Ogyan Tanzin Rinpoche (Munich)](http://www.loponpogyantanzin.com)
+- [Lopon P Ogyan Tanzin Rinpoche (Gottingen)](http://www.loponpogyantanzin.com)
+- [Lopon P Ogyan Tanzin Rinpoche (Munich)](http://www.loponpogyantanzin.com)
 
 Latvia
 
@@ -112,12 +117,12 @@ Latvia
 
 Malta
 
-- [Lopon Ogyan Tanzin Rinpoche](http://www.loponpogyantanzin.com)
+- [Lopon P Ogyan Tanzin Rinpoche](http://www.loponpogyantanzin.com)
 
 Poland
 
 - [Kuntuzangpo (Szczecin)](http://kuntuzangpo.net/Home.html)
-- [Lopon Ogyan Tanzin Rinpoche (Warsaw)](http://www.loponpogyantanzin.com)
+- [Lopon P Ogyan Tanzin Rinpoche (Warsaw)](http://www.loponpogyantanzin.com)
 
 Slovakia
 
@@ -125,8 +130,11 @@ Slovakia
 
 Spain
 
+- [Arya Tara (Lleida)](http://www.aryatara.es/)
 - [Can Camps (Girona)](http://www.nyingmatersar.es/mandala)
-- [Namkha Dzong](http://www.rigdzin-community.org/index.php/rigdzin-community/namkha-dzong-retreat-center)
+- [Centre Mandalas (Figueres)](http://www.centremandala.org)
+- [Communidad Budista Nyingma Tersar (Valencia)](http://www.nyingmatersar.es/)
+- [Yeshe Nyingpo (Barcelone)](http://www.dudjom-tersar.org/?p=285)
 
 Switzerland
 
@@ -158,18 +166,23 @@ California
 - [Pema Osel Ling (Watsonville)](http://www.vajrayana.org)
 - [P’huntsog Ling (Santa Barbara)](http://chagdudgonpa.org/directory/)
 - [Rigdzin Ling, Chagdud Gonpa (Junction City)](http://chagdudgonpa.org/)
+- [Siddhartha's Intent (LA)](http://northamerica.siddharthasintent.org/urban-groups/los-angeles/)
+- [Siddhartha's Intent (San Francisco)](http://northamerica.siddharthasintent.org/urban-groups/san-francisco/)
 - [Thondup Ling (LA)](http://www.thondupling.org/)
-- [Variotsana Foundation (Santa Barbara, Garden Grove)](http://www.vairotsana.org/)
+- [Variotsana Foundation (Garden Grove)](http://www.vairotsana.org/)
+- [Variotsana Foundation (Santa Barbara)](http://www.vairotsana.org/)
 - [Yeshe Nyingpo (LA)](http://www.tersar.org/?page_id=1127)
 - [美國 南加州 洛杉磯 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (El Monte)](http://www.clearlight.org/center.php)
 - [美國 北加州 矽谷 桑尼維爾 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Sunnyvale)](http://www.clearlight.org/center.php)
  
 Canada
 
-- [Dudjom Throma Sangha (Toronto)](https://www.facebook.com/pages/Dudjom-Throma-Sangha-Canada/)
 - [Padmasambhava Buddhist Center (Montreal)](http://www.padmasambhava.org/centers.html)
 - [Padmasambhava Buddhist Center (St. Sauveur)](http://www.padmasambhava.org/centers.html)
+- [Rangrig Dechen Tse - Canada Throma Sangha (Toronto)](http://www.canadathromasangha.ca/)
 - [Riwoche Temple (Toronto)](http://www.riwoche.com/TorontoTemple.html)
+- [Siddhartha's Intent (Halifax)](http://northamerica.siddharthasintent.org/urban-groups/halifax/)
+- [Siddhartha's Intent (Vancouver)](http://northamerica.siddharthasintent.org/urban-groups/vancouver/)
 - [加拿大 多倫多 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Toronto)](http://www.clearlight.org/center.php)
 
 Colorado
@@ -228,11 +241,13 @@ New York
 
 - [Chagdud Gonpa (Ithaca)](http://chagdudgonpa.org/directory/)
 - [Chagdud Gonpa (Syracuse)](http://chagdudgonpa.org/directory/)
-- [Dudjom Troma Foundation (NYC)](http://dudjomtroma.org/home.html)
+- [Dudjom Troma Foundation (NYC)](http://dudjomtroma.org)
+- [Dudjom Troma Foundation (Kingston)](http://dudjomtroma.org)
 - [Orgyen Chö Dzong Retreat Center (Greenville)](http://www.tersar.org/?page_id=858)
 - [Padma Samye Ling (Sidney Center)](http://www.padmasambhava.org)
 - [Padmasambhava Buddhist Center (Ithaca)](http://www.padmasambhava.org/centers.html)
 - [Padmasambhava Buddhist Center (NYC)](http://www.padmasambhava.org/centers.html)
+- [Siddhartha's Intent (NYC)](http://northamerica.siddharthasintent.org/urban-groups/new-york-city/)
 - [Yeshe Nyingpo (NYC)](http://www.tersar.org/?page_id=946)
 - [美國 紐約 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Flushing)](http://www.clearlight.org/center.php)
 
@@ -243,8 +258,9 @@ North Carolina
 Oregon
 
 - [Chagdud Gonpa (Corvallis)](http://chagdudgonpa.org/directory/)
+- [Dechen Ling (Ashland)](http://dechenlingashland.org/)
 - [Dechhen Ling (Cottage Grove)](http://chagdudgonpa.org/directory/)
-- [Dorje Ling (Portland)](http://www.dorjeling.info/Home_Page.html)
+- [Dorje Ling (Portland)](http://www.dorjeling.info)
 - [Minjur Ling (Ashland)](http://chagdudgonpa.org/directory/)
 - [Natural Mind Dharma Center (Bend)](naturalminddharma.org)
 - [Rigdzin Gatsal (Williams)](http://chagdudgonpa.org/directory/)
@@ -274,12 +290,14 @@ Washington
 - [Chagdud Gonpa (Orcas Island)](http://chagdudgonpa.org/directory/)
 - [Chagdud Gonpa (Wenatchee)](http://chagdudgonpa.org/directory/)
 - [Padma Ling (Spokane)](http://chagdudgonpapadmaling.com/)
+- [Siddhartha's Intent (Seattle)](http://northamerica.siddharthasintent.org/urban-groups/seattle/)
 
 
 
 ####Mexico
 
-- [Yeshe Nyingpo (Enseneda)](http://www.yeshenyingpomexico.blogspot.in/)
+- [Duddul Namyal Ling (Puebla)](http://budismocholula.blogspot.mx/)
+- [Yeshe Nyingpo (Enseneda)](http://www.yeshenyingpomexico.blogspot.com/)
 - [Rigzin Osel Ling (Enseneda)](http://saraswatibhawan.org/about-us-2/rigzin-osel-ling-mexico/)
 
 #### South America
@@ -353,7 +371,7 @@ One should seek a qualified lama and receive an permission and detailed instruct
 
 **Ngondro**
  
-- [Short Ngondro (text)](http://www.tersar.org/wp-content/uploads/2014/06/ShortNgondro.Original.pdf)
+- Short Ngondro (text) [1,](http://www.tersar.org/wp-content/uploads/2014/06/ShortNgondro.Original.pdf) [2](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro)
 - [Short Ngondro (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=175)
 - [Short Ngondro (book, tibetan)](http://vimalatreasures.org/concise-dudjom-tersar-ngondro.aspx)
 
@@ -365,6 +383,8 @@ Anything beyond that will likely require permission to view. Excellent sources o
 
 - [Bero Jeydren Publications](http://www.dharmatreasures.com/categories/Books-%26-Practice-Texts/)
 - [Light of Berotsana](http://www.berotsana.org/translations-published)
+- [Padma Publishing](http://www.padmapublishing.com/)
+- [Tibetan Treasures](http://www.tibetantreasures.com/)
 - [Vimala Treasures](http://vimalatreasures.org/)
 
 
@@ -376,18 +396,26 @@ Dudjom Rinpoche
  - [Brief Notes on the Visualization for the Concise Recitation of the Pure Vision Preliminary Practice (text)](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro-notes)
  - [A Torch Lighting the Way to Freedom: Complete Instructions on the Preliminary Practices (book)](http://www.amazon.com/Torch-Lighting-Way-Freedom-Instructions/dp/159030909X/)
  
-HH Dungse Shenphen Dawa Rinpoche
+H.E. Chagdud Tulku Rinpoche
+	
+- [Ngondro Commentary: Instructions for the Concise Preliminary Practices of the New Treasure of Dudjom](http://www.tibetantreasures.com/Padma_Publishing-Ngondro_Commentary_1.html)
+
+H.H. Dungse Shenphen Dawa Rinpoche
 
 - [Short Ngondro Commentary (text)](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
  
-Khenchen Palden Sherab Rinpoche
+Khenchen Palden Sherab Rinpoche & Khentrul Tsewang Dongyal Rinpoche
 
 - [Short Ngondro Commentary (pdf)](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Kenpo%20Palden%20Sherab%20Rinpoche/Commentary%20On%20Ngondro.pdf/Commentary.pdf)
 - [Illuminating the Path: Ngondro Instructions According to the Nyingma School (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=105)
 
 Lama Tharchin Rinpoche
 
-- [A commentary on the Dudjom Tersar Ngondro (book)](http://www.dharmatreasures.com/a-commentary-on-the-dudjom-tersar-ngondro-by-lama-tharchin-rinpoche/)
+- [A Commentary on the Dudjom Tersar Ngondro (book)](http://www.dharmatreasures.com/a-commentary-on-the-dudjom-tersar-ngondro-by-lama-tharchin-rinpoche/)
+
+Thinley Norbu Rinpoche
+
+- [A Cascading Waterfall of Nectar](http://www.shambhala.com/a-cascading-waterfall-of-nectar.html)
 
 Ven. Gyatrul Rinpoche
 
@@ -417,15 +445,33 @@ Ven. Gyatrul Rinpoche
 - [Tsogyal Learning & Practice Center](http://tsogyalonlinecourses.com)
 - [Vimala Treasures](http://vimalatreasures.org/)
 
-**Free Teachings**
+**Free Text Teachings**
 
 - [Ven. Gyatrul Rinpoche](http://vimalatreasures.org/free-downloads.aspx)
 
 
 ## Audio & Video
 
+- **A Clear Mirror** translator Chonyi Drolma interview on Dudjom Lingpa: [part 1](https://www.youtube.com/watch?v=zvtBGMBXNPc), [part 2](http://www.youtube.com/watch?v=cCTdESPZa3c)
 - [Dzongsar Jamyang Khyentse Podcast](http://www.khyentserecordings.org/namo/Podcasts)
 - [Vajrayana Foundation on Vimeo](https://vimeo.com/vajrayana)
+
+**Free Teachings**
+
+Khenchen Palden Sherab Rinpoche & Khenpo Tsewang Dongyal Rinpoche
+
+- [Empowerment of the Wisdom Dakini Yeshe Tsogyal in the Dudjom Tersar Lineage](http://youtu.be/0OgnbDXqd7s)
+- [Heart Advice to All Practitioners by His Holiness Dudjom Rinpoche](http://youtu.be/KJj-YIHAHqE)
+
+Lama Tharchin Rinpoche
+
+- Calling the Lama from Afar: part [1](https://vimeo.com/103063342), [2](https://vimeo.com/103064198), [3](https://vimeo.com/103064435), [4](https://vimeo.com/103064525)
+
+Lopon Ogyan Tanzin Rinpoche
+	
+- [Dudjom Rinpoche & the Ngakpa tradition](http://youtu.be/ybvYDx4SdAE)
+
+
 
 ## Images
 
@@ -433,5 +479,7 @@ Ven. Gyatrul Rinpoche
 
 
 ***
+#####Special Thanks
+Aside from my own research, information from [Jnanasukha](http://jnanasukha.org/), the [Dharma Wheel Forums](http://www.dharmawheel.net/), and this anonymous [Dudjom blog](http://www.dudjom.blogspot.in) was incredibly helpful in making this.
 #####Dedication
 May the merit generated by this activity benefit all sentient beings!
