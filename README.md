@@ -16,6 +16,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Khenpo Tsewang Dongyal Rinpoche](http://www.padmasambhava.org)
 - [Khenpo Sonam Tobgyal Rinpoche](http://www.riwoche.com/SonamRinpoche.html)
 - [Lama Pema Dorje](http://sangchenpemachholing.org/)
+- [Lama Sonam Tobgay](http://www.tersar.org/teachers-2/lama-sonam-tobgay/)
 - [Lama Sonam Tsering](http://www.vajrayana.org/)
 - [Lama Tsering Gyaltsen](http://www.saraha.org/)
 - [Lama David Liu](http://www.clearlight.org/)
@@ -23,10 +24,12 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Lama Rigdzin P'huntsok](http://pemakoddharmawheel.org/lineage/)
 - [Loppon Jigme Thutop Namgyal](http://lotusdharmagarden.org/Lotus_Dharma_Garden/About_Us.html) 
 - [Tulku Orgyen P’huntsok](http://www.vairotsana.org/)
-- [Ven. Lama Rinchen Phuntsok](http://www.dongakcholing.org/)
-- [Ven. Rangrik Dorje Rinpoche](http://www.canadathromasangha.com/)
 - [Ven. Bhakha Tulku Rinpoche](http://www.vairotsana.org/our-teachers/)
-- [Ven. Gyaltrul Rinpoche](http://www.tashicholing.org/Gyatrul.html)  
+- [Ven. Gyaltrul Rinpoche](http://www.tashicholing.org/Gyatrul.html)
+- [Ven. Lama Rinchen Phuntsok](http://www.dongakcholing.org/)
+- [Ven. Lama Tenzin Samphel](http://www.tersar.org/teachers-2/venerable-lama-tenzin-samphel/)
+- [Ven. Rangrik Dorje Rinpoche](http://www.canadathromasangha.com/)
+- [Ven. Tulku Namgay Dawa Rinpoche](http://www.tersar.org/teachers-2/venerable-tulku-namgay-dawa-rinpoche/)  
 
 
 ## Centers of Practice
@@ -39,6 +42,7 @@ Not every center or group is necessarily practicing only the Dudjom Tersar, but 
 **Bhutan**
 
 - Bartsham Drubdra
+- [Pema Yoedling (Thimphu)](http://www.pemayoedling.org/)
 - Rangjung Woesel Choeling Monastery
 - Thegchhog Kunzang Chhodon Nunnery
 - Yonphula Lhakhang
@@ -377,6 +381,12 @@ One should seek a qualified lama and receive an permission and detailed instruct
 
 - [A Spontaneous Song of the Primordial Nature](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html)
 
+**Songs and Prayers**
+
+- [The Gathering of the Mandalas of Tara: The Profound Essence Endowed with Eight](http://www.berotsana.org/storage/Tara%20Prayer_web%20Ying%20Rig%20Yermed_9-30-12.pdf)
+- [The Heart Nectar of the Saints: A Prayer of Aspiration that Condenses the Essence of the Oral Teachings](http://www.dudjomspz.org/practices/hns)
+- [The Hum Song](http://www.dudjomspz.org/teachings/hs)
+
 Anything beyond that will likely require permission to view. Excellent sources of texts and translations include:
 
 - [Bero Jeydren Publications](http://www.dharmatreasures.com/categories/Books-%26-Practice-Texts/)
@@ -402,7 +412,7 @@ H.H. Dungse Shenphen Dawa Rinpoche
 
 - [Short Ngondro Commentary (text)](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
  
-Khenchen Palden Sherab Rinpoche & Khentrul Tsewang Dongyal Rinpoche
+Khenchen Palden Sherab Rinpoche & Khenpo Tsewang Dongyal Rinpoche
 
 - [Short Ngondro Commentary (pdf)](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Kenpo%20Palden%20Sherab%20Rinpoche/Commentary%20On%20Ngondro.pdf/Commentary.pdf)
 - [Illuminating the Path: Ngondro Instructions According to the Nyingma School (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=105)
@@ -450,11 +460,16 @@ Ven. Gyatrul Rinpoche
 
 ## Audio & Video
 
+- [HH Dudjom Rinpoche on Padmasambhava](https://www.youtube.com/watch?v=_YVjohDXxC0)
 - **A Clear Mirror** translator Chonyi Drolma interview on Dudjom Lingpa: [part 1](https://www.youtube.com/watch?v=zvtBGMBXNPc), [part 2](http://www.youtube.com/watch?v=cCTdESPZa3c)
 - [Dzongsar Jamyang Khyentse Podcast](http://www.khyentserecordings.org/namo/Podcasts)
 - [Vajrayana Foundation on Vimeo](https://vimeo.com/vajrayana)
 
 **Free Teachings**
+
+Dudjom Rinpoche
+
+- [Tersar.org videos](http://www.tersar.org/dudjom-rinpoche-teaching-videos/)
 
 Khenchen Palden Sherab Rinpoche & Khenpo Tsewang Dongyal Rinpoche
 
