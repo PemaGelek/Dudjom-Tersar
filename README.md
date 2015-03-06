@@ -1,5 +1,13 @@
 # Dudjom Tersar
 
+##Contents
+- Lamas
+- Centers of Practice
+- [Texts](#Texts)
+- Books
+- Websites
+- Audio & Video
+
 ## Information
 
 This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for for information about their practice can have an easily accessible source. Please feel free to help out!
