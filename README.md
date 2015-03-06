@@ -3,7 +3,7 @@
 ##Contents
 - Lamas
 - Centers of Practice
-- [Texts](#Texts)
+- [Texts](#texts)
 - Books
 - Websites
 - Audio & Video
