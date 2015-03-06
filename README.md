@@ -1,16 +1,16 @@
 # Dudjom Tersar
 
-##Contents
-- Lamas
-- Centers of Practice
-- [Texts](#texts)
-- Books
-- Websites
-- Audio & Video
-
 ## Information
 
 This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for for information about their practice can have an easily accessible source. Please feel free to help out!
+
+##Contents
+- [Lamas](#lamas)
+- [Centers of Practice](#centers-of-practice)
+- [Texts](#texts)
+- [Books](#books)
+- [Websites](#websites)
+- [Audio & Video](#audio--video)
 
 ## Lamas
 The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
