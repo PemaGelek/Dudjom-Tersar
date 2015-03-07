@@ -6,7 +6,7 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 
 ##Contents
 - [Lamas](#lamas)
-- [Centers of Practice](#centers-of-practice)
+- [Locations](#locations)
 - [Texts](#texts)
 - [Books](#books)
 - [Websites](#websites)
@@ -40,12 +40,29 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Ven. Tulku Namgay Dawa Rinpoche](http://www.tersar.org/teachers-2/venerable-tulku-namgay-dawa-rinpoche/)  
 
 
-## Centers of Practice
-Not every center or group is necessarily practicing only the Dudjom Tersar, but I believe each one should be where a beginner could at least get a ngondro iniation, is a practice group affiliated with a Dudjom Tersar carrying lama, or conducts Tersar related retreats. 
+## Locations
 
-Centers that practice exclusively Dudjom Tersar are in **bold**. 
 
-[MAP](https://www.google.com/maps/d/edit?mid=zuLZC0Jk5ldI.kMbgVwTubtSs) to every location below according to the info available. Tibetan and many Bhutanese locations are currently not pinned. Approximate locations are used when necessary.
+####Pilgrimage Sites
+
+
+[**Yeshe Nyingpo (NYC)**](http://www.tersar.org/?page_id=946) & [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858)	
+
+HH Dudjom Rinpoche personally founded, lived at, taught at and gave wangs at these centers while still alive, so in addition to being under the direction of his self-appointed lineage holder, his own son, they are blessed by his own body speech and mind and are therefore the holiest pilgrimage places one could ever wish for in any of the Americas for a Dudjom practitioner. Also, his wife and spiritual consort Sangyum Kusho Rigdzin Wangmo  entered into parinirvana in the NYC Yeshe Nyingpo center and remained in tukdam there for weeks. 
+
+[**Urgyen Samyé Chöling (Dordorgne, France)**](http://www.dudjom-tersar.org/)
+
+HH Dudjom Rinpoche also eastablished [Urgyen Samyé Chöling where he lived and practiced, taught, gave wangs and where he took his parinirvana.
+
+[**Pemaköd**](pemaköd.md)
+
+The birthplace of HH Dudjom Rinpoche and one of the 108 hidden lands blessed by Guru Padmasambhava. This page is a small collection of relevant links.
+
+#### Centers of Practice & Retreat
+
+Not every center or group is practicing only the Dudjom Tersar, but I believe each one at the least can be where a beginner could get a  Tersar ngondro iniation, is a practice group affiliated with a  Tersar carrying lama, or conducts Tersar practice retreats. Centers that practice exclusively Dudjom Tersar are in **bold**. 
+
+[MAP](https://www.google.com/maps/d/edit?mid=zuLZC0Jk5ldI.kMbgVwTubtSs) to every location below according to the info available. Tibetan and many Bhutanese locations are currently not pinned. Approximate locations are used when information is unavailable.
 
 - [Asia](#asia)
 - [Australia](#australia)
@@ -53,6 +70,11 @@ Centers that practice exclusively Dudjom Tersar are in **bold**.
 - [U.S. & Canada](#us--canada)
 - [Mexico](#mexico)
 - [South America](#south-america)
+
+Traditional 3 year retreats are available at [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858), [**Kunzang Gatshal (Delhi, NY)**](http://kunzangatshal.org/),
+and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
+
+
 
 
 #### Asia
@@ -167,15 +189,6 @@ UK
 - [Lopon Ogyan Tanzin Rinpoche (London)](http://www.loponpogyantanzin.com)
 
 #### U.S. & Canada
-
-[**Yeshe Nyingpo (NYC)**](http://www.tersar.org/?page_id=946) & [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858)	
-
-HH Dudjom Rinpoche personally founded, lived at, taught at and gave wangs at these centers while still alive. So in addition to being under the direction of his self-appointed lineage holder, his own son, they are blessed by his own body speech and mind and are therefore the holiest pilgrimage places one could ever wish for in any of the Americas for a Dudjom practitioner.  
-
-Also, his wife and spiritual consort Sangyum Kusho Rigdzin Wangmo  entered into parinirvana in the NYC Yeshe Nyingpo center and remained in tukdam there for weeks. 
-
-For those seeking, traditional 3 year retreats are available at [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858), [**Kunzang Gatshal (Delhi, NY)**](http://kunzangatshal.org/),
-and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
 
 Alaska
 
@@ -395,7 +408,7 @@ Dudjom Tersar texts or related materials and commentaries. Downloadable or web-v
 
 ##### Sadhanas
 
-One should seek a qualified lama and receive an permission and detailed instructions before attempting ANY practice!
+One should seek a qualified lama before attempting ANY practice!
 
 **Ngondro**
  
