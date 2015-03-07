@@ -16,7 +16,7 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
 
 - [**Dudjom Rinpoche III Sangye Pema Zhepa**](http://www.dudjomspz.org/biography/bb)
-- [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche)
+- [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](http://www.dudjomtyd.org)
 - [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
 - [Dungse Garab Rinpoche](http://www.pramodavajra.org/index.php?do=page&locid=2002&topid=2&tpid=154)
 - [H.H. Dungse Shenphen Dawa Rinpoche](http://www.tersar.org)
@@ -365,7 +365,7 @@ Washington
 
 
 ## Texts
-Dudjom Tersar texts or related materials and commentaries
+Dudjom Tersar texts or related materials and commentaries. Downloadable or web-viewable text is labeled as such, and book links are directed to sources that seem to financially benefit the publisher or group responsible for supporting the translation.
 
 ##### Full Dudjom Tersar Cycles In Tibetan
 
@@ -387,7 +387,7 @@ One should seek a qualified lama and receive an permission and detailed instruct
 
 **Calling the Lama from Afar**
 
-- [A Spontaneous Song of the Primordial Nature](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html)
+- [A Spontaneous Song of the Primordial Nature (text)](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html)
 
 **Songs and Prayers**
 
@@ -414,7 +414,7 @@ Dudjom Rinpoche
  
 H.E. Chagdud Tulku Rinpoche
 	
-- [Ngondro Commentary: Instructions for the Concise Preliminary Practices of the New Treasure of Dudjom](http://www.tibetantreasures.com/Padma_Publishing-Ngondro_Commentary_1.html)
+- [Ngondro Commentary: Instructions for the Concise Preliminary Practices of the New Treasure of Dudjom (book)](http://www.tibetantreasures.com/Padma_Publishing-Ngondro_Commentary_1.html)
 
 H.H. Dungse Shenphen Dawa Rinpoche
 
@@ -431,7 +431,7 @@ Lama Tharchin Rinpoche
 
 Thinley Norbu Rinpoche
 
-- [A Cascading Waterfall of Nectar](http://www.shambhala.com/a-cascading-waterfall-of-nectar.html)
+- [A Cascading Waterfall of Nectar (book)](http://www.shambhala.com/a-cascading-waterfall-of-nectar.html)
 
 Ven. Gyatrul Rinpoche
 
