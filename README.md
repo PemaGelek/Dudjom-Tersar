@@ -15,11 +15,11 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 ## Lamas
 The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
 
-- [**Dudjom Rinpoche III Sangye Pema Zhepa**](http://www.dudjomspz.org/biography/bb)
-- [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](http://www.dudjomtyd.org)
+- [**H.H. Dungse Shenphen Dawa Rinpoche** (current lineage holder of the Dudjom Tersar)](http://www.tersar.org)
+- [**Dudjom Rinpoche III Sangye Pema Zhepa**](http://www.dudjomspz.org/biography/bb) (Dudjom Rinpoche Yangsi)
+- [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](http://www.dudjomtyd.org) (Dudjom Rinpoche Yangsi)
 - [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
 - [Dungse Garab Rinpoche](http://www.pramodavajra.org/index.php?do=page&locid=2002&topid=2&tpid=154)
-- [H.H. Dungse Shenphen Dawa Rinpoche](http://www.tersar.org)
 - [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
 - [Khenpo Tsewang Dongyal Rinpoche](http://www.padmasambhava.org)
 - [Khenpo Sonam Tobgyal Rinpoche](http://www.riwoche.com/SonamRinpoche.html)
@@ -41,9 +41,19 @@ The link for each lama is generally their main webpage or reatreat center/monast
 
 
 ## Centers of Practice
-Not every center or group is necessarily practicing only the Dudjom Tersar, but I believe each one should be where a beginner could at least get a ngondro iniation or is a practice group affiliated with a Dudjom Tersar carrying lama. Students further along the path can check the webpages to see what's available for teaching and retreats.
+Not every center or group is necessarily practicing only the Dudjom Tersar, but I believe each one should be where a beginner could at least get a ngondro iniation, is a practice group affiliated with a Dudjom Tersar carrying lama, or conducts Tersar related retreats. 
 
-[MAP](https://www.google.com/maps/d/edit?mid=zuLZC0Jk5ldI.kMbgVwTubtSs) to every location below according to the info available. Tibetan locations are currently not pinned.
+Centers that practice exclusively Dudjom Tersar are in **bold**. 
+
+[MAP](https://www.google.com/maps/d/edit?mid=zuLZC0Jk5ldI.kMbgVwTubtSs) to every location below according to the info available. Tibetan and many Bhutanese locations are currently not pinned. Approximate locations are used when necessary.
+
+- [Asia](#asia)
+- [Australia](#australia)
+- [Europe](#europe)
+- [U.S. & Canada](#us--canada)
+- [Mexico](#mexico)
+- [South America](#south-america)
+
 
 #### Asia
 
@@ -59,22 +69,22 @@ Not every center or group is necessarily practicing only the Dudjom Tersar, but 
 
 **India**
 
-- [Deden Tashi Choeling (Pemakö)](http://pemakoddharmawheel.org/)
-- [Duddul Raptenling (Orissa)](http://duddulraptenling.blogspot.in/)
--  [Lundrup Topgye Ling (Pemakö)](http://www.loponpogyantanzin.com/#!about1/ck8c)
-- [Ogyan Chokor Ling (Sarnath)](http://www.loponpogyantanzin.com/#!ogyan-chokor-ling/csy7)
+- [**Deden Tashi Choeling (Pemakö)**](http://pemakoddharmawheel.org/)
+- [**Duddul Raptenling (Orissa)**](http://duddulraptenling.blogspot.in/)
+-  [**Lundrup Topgye Ling (Pemakö)**](http://www.loponpogyantanzin.com/#!about1/ck8c)
+- [**Ogyan Chokor Ling (Sarnath)**](http://www.loponpogyantanzin.com/#!ogyan-chokor-ling/csy7)
 - [Orgyen Samye Chokhor Ling (Sarnath)](http://www.pbcindia.com/)
 - [Padma Samye Chokor Ling (Sarnath)](http://www.padmasambhava.org/centers.html)
-- [Tekchok Ösel Chöling (Pemakö)](http://pemakoddharmawheel.org/)
+- [**Tekchok Ösel Chöling (Pemakö)**](http://pemakoddharmawheel.org/)
 - Tso Pema Orgyen Heruka Nyingmapa Gompa (Rewalsar)
 - [Urgyen Sangnag Chöling (Spiti)](http://sangnagcholing.org/)
-- Zangdokpalri Monastery (Kalimpong)
+- **Zangdokpalri Monastery (Kalimpong)**
 
 **Malaysia**
 
 **Nepal**
 
-- Dudjom Gompa (Boudhanath)
+- **Dudjom Gompa (Boudhanath)**
 - [Namkha Khyung Dzong (Humla)](http://namkhyung.org/)
 - [Nyingmapa Wishfulfilling Center for Study and Practice (Kathmandu)](http://dojoling.com/)
 
@@ -120,8 +130,8 @@ France
 
 Germany
 
-- [Lopon P Ogyan Tanzin Rinpoche (Gottingen)](http://www.loponpogyantanzin.com)
-- [Lopon P Ogyan Tanzin Rinpoche (Munich)](http://www.loponpogyantanzin.com)
+- [**Lopon P Ogyan Tanzin Rinpoche (Gottingen)**](http://www.loponpogyantanzin.com)
+- [**Lopon P Ogyan Tanzin Rinpoche (Munich)**](http://www.loponpogyantanzin.com)
 
 Latvia
 
@@ -129,7 +139,7 @@ Latvia
 
 Malta
 
-- [Lopon P Ogyan Tanzin Rinpoche](http://www.loponpogyantanzin.com)
+- [**Lopon P Ogyan Tanzin Rinpoche**](http://www.loponpogyantanzin.com)
 
 Poland
 
@@ -146,19 +156,26 @@ Spain
 - [Can Camps (Girona)](http://www.nyingmatersar.es/mandala)
 - [Centre Mandalas (Figueres)](http://www.centremandala.org)
 - [Communidad Budista Nyingma Tersar (Valencia)](http://www.nyingmatersar.es/)
-- [Yeshe Nyingpo (Barcelone)](http://www.dudjom-tersar.org/?p=285)
+- [**Yeshe Nyingpo (Barcelone)**](http://www.dudjom-tersar.org/?p=285)
 
 Switzerland
 
 - [Thegchok Ling (Lausanne)](http://www.rigdzin.ch/)
-
-
 
 UK
 
 - [Lopon Ogyan Tanzin Rinpoche (London)](http://www.loponpogyantanzin.com)
 
 #### U.S. & Canada
+
+[**Yeshe Nyingpo (NYC)**](http://www.tersar.org/?page_id=946) & [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858)	
+
+HH Dudjom Rinpoche personally founded, lived at, taught at and gave wangs at these centers while still alive. So in addition to being under the direction of his self-appointed lineage holder, his own son, they are blessed by his own body speech and mind and are therefore the holiest pilgrimage places one could ever wish for in any of the Americas for a Dudjom practitioner.  
+
+Also, his wife and spiritual consort Sangyum Kusho Rigdzin Wangmo  entered into parinirvana in the NYC Yeshe Nyingpo center and remained in tukdam there for weeks. 
+
+For those seeking, traditional 3 year retreats are available at [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858), [**Kunzang Gatshal (Delhi, NY)**](http://kunzangatshal.org/),
+and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
 
 Alaska
 
@@ -175,7 +192,7 @@ California
 - [Orgyen Dorje Den (Alameda)](http://www.orgyendorjeden.org)
 - [Osel Nyingpo (Ojai)](http://www.oselnyingpo.org/)
 - [Padmasambhava Buddhist Center (El Cerrito)](http://www.padmasambhava.org/centers.html)
-- [Pema Osel Ling (Watsonville)](http://www.vajrayana.org)
+- [**Pema Osel Ling (Watsonville)**](http://www.vajrayana.org)
 - [P’huntsog Ling (Santa Barbara)](http://chagdudgonpa.org/directory/)
 - [Rigdzin Ling, Chagdud Gonpa (Junction City)](http://chagdudgonpa.org/)
 - [Siddhartha's Intent (LA)](http://northamerica.siddharthasintent.org/urban-groups/los-angeles/)
@@ -183,7 +200,7 @@ California
 - [Thondup Ling (LA)](http://www.thondupling.org/)
 - [Variotsana Foundation (Garden Grove)](http://www.vairotsana.org/)
 - [Variotsana Foundation (Santa Barbara)](http://www.vairotsana.org/)
-- [Yeshe Nyingpo (LA)](http://www.tersar.org/?page_id=1127)
+- **[Yeshe Nyingpo (LA)](http://www.tersar.org/?page_id=1127)**
 - [美國 南加州 洛杉磯 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (El Monte)](http://www.clearlight.org/center.php)
 - [美國 北加州 矽谷 桑尼維爾 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Sunnyvale)](http://www.clearlight.org/center.php)
  
@@ -253,14 +270,15 @@ New York
 
 - [Chagdud Gonpa (Ithaca)](http://chagdudgonpa.org/directory/)
 - [Chagdud Gonpa (Syracuse)](http://chagdudgonpa.org/directory/)
-- [Dudjom Troma Foundation (NYC)](http://dudjomtroma.org)
-- [Dudjom Troma Foundation (Kingston)](http://dudjomtroma.org)
-- [Orgyen Chö Dzong Retreat Center (Greenville)](http://www.tersar.org/?page_id=858)
+- [**Dudjom Troma Foundation (NYC)**](http://dudjomtroma.org)
+- [**Dudjom Troma Foundation (Kingston)**](http://dudjomtroma.org)
+- [**Kunzang Gatshal (Delhi)**](http://kunzangatshal.org/)
+- [**Orgyen Chö Dzong Retreat Center (Greenville)**](http://www.tersar.org/?page_id=858)
 - [Padma Samye Ling (Sidney Center)](http://www.padmasambhava.org)
 - [Padmasambhava Buddhist Center (Ithaca)](http://www.padmasambhava.org/centers.html)
 - [Padmasambhava Buddhist Center (NYC)](http://www.padmasambhava.org/centers.html)
 - [Siddhartha's Intent (NYC)](http://northamerica.siddharthasintent.org/urban-groups/new-york-city/)
-- [Yeshe Nyingpo (NYC)](http://www.tersar.org/?page_id=946)
+- [**Yeshe Nyingpo (NYC)**](http://www.tersar.org/?page_id=946)
 - [美國 紐約 寧瑪派 明心精舍 & 噶舉派 直貢寶吉祥中心 (Flushing)](http://www.clearlight.org/center.php)
 
 North Carolina
