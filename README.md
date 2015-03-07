@@ -23,13 +23,14 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
 - [Khenpo Tsewang Dongyal Rinpoche](http://www.padmasambhava.org)
 - [Khenpo Sonam Tobgyal Rinpoche](http://www.riwoche.com/SonamRinpoche.html)
-- [Lama Pema Dorje](http://sangchenpemachholing.org/)
-- [Lama Sonam Tobgay](http://www.tersar.org/teachers-2/lama-sonam-tobgay/)
-- [Lama Sonam Tsering](http://www.vajrayana.org/)
-- [Lama Tsering Gyaltsen](http://www.saraha.org/)
 - [Lama David Liu](http://www.clearlight.org/)
 - [Lama Dechen Yeshe Wangmo](http://jnanasukha.org/connect)
+- [Lama Pema Dorje](http://sangchenpemachholing.org/)
 - [Lama Rigdzin P'huntsok](http://pemakoddharmawheel.org/lineage/)
+- [Lama Sonam Tobgay](http://www.tersar.org/teachers-2/lama-sonam-tobgay/)
+- [Lama Sonam Tsering](http://www.vajrayana.org/)
+- [Lama Thupten Dorje Gyaltsen Rinpoche](http://urgyensamtenling.org)
+- [Lama Tsering Gyaltsen](http://www.saraha.org/)
 - [Loppon Jigme Thutop Namgyal](http://lotusdharmagarden.org/Lotus_Dharma_Garden/About_Us.html) 
 - [Tulku Orgyen P’huntsok](http://www.vairotsana.org/)
 - [Ven. Bhakha Tulku Rinpoche](http://www.vairotsana.org/our-teachers/)
@@ -326,6 +327,7 @@ Texas
 Utah
 
 - [Chagdud Gonpa (Monticello)](http://chagdudgonpa.org/directory/)
+- [Urgyen Samten Ling (SLC)](http://urgyensamtenling.org)
 
 Washington
 
