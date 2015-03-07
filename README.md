@@ -15,7 +15,7 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 ## Lamas
 The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
 
-- [**H.H. Dungse Shenphen Dawa Rinpoche** (current lineage holder of the Dudjom Tersar)](http://www.tersar.org)
+- [**H.H. Dungse Shenphen Dawa Rinpoche**](http://www.tersar.org) (current lineage holder of the Dudjom Tersar)
 - [**Dudjom Rinpoche III Sangye Pema Zhepa**](http://www.dudjomspz.org/biography/bb) (Dudjom Rinpoche Yangsi)
 - [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](http://www.dudjomtyd.org) (Dudjom Rinpoche Yangsi)
 - [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
