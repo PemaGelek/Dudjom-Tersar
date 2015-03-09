@@ -5,8 +5,8 @@
 This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for for information about their practice can have an easily accessible source. Please feel free to help out!
 
 ##Contents
-- [Lamas](#lamas)
-- [Locations](#locations)
+- [Lamas](##lamas)
+- [Locations](##locations)
 - [Texts](#texts)
 - [Books](#books)
 - [Websites](#websites)
@@ -31,6 +31,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Lama Sonam Tsering](http://www.vajrayana.org/)
 - [Lama Thupten Dorje Gyaltsen Rinpoche](http://urgyensamtenling.org)
 - [Lama Tsering Gyaltsen](http://www.saraha.org/)
+- [Lopon P Ogyan Tanzin Rinpoche](http://www.loponpogyantanzin.com/)
 - [Loppon Jigme Thutop Namgyal](http://lotusdharmagarden.org/Lotus_Dharma_Garden/About_Us.html) 
 - [Tulku Orgyen P’huntsok](http://www.vairotsana.org/)
 - [Ven. Bhakha Tulku Rinpoche](http://www.vairotsana.org/our-teachers/)
@@ -171,7 +172,7 @@ Poland
 
 Slovakia
 
-- [Lopon Ogyan Tanzin Rinpoche (Vzdelávacie centrum Zaježová )](http://www.loponpogyantanzin.com)
+- [Lopon Ogyan Tanzin Rinpoche (Vzdelávacie centrum Zaježová )](http://ogyantanzin.blogspot.sk/) & [FB](https://www.facebook.com/groups/132600310197306/)
 
 Spain
 
