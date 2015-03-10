@@ -2,7 +2,7 @@
 
 ## Information
 
-This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for for information about their practice can have an easily accessible source. Please feel free to help out!
+This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for more information about their practice or places to practice can have an easily accessible source. Please feel free to help out! You can also join discussion on the list at [DharmaWheel](http://www.dharmawheel.net/viewtopic.php?f=49&t=18946&sid=8b70b0ba57b11022980522c141d6de2c) if you have something to add.
 
 ##Contents
 - [Lamas](##lamas)
@@ -55,7 +55,7 @@ HH Dudjom Rinpoche personally founded, lived at, taught at and gave wangs at the
 
 [**Urgyen Samyé Chöling (Dordorgne, France)**](http://www.dudjom-tersar.org/)
 
-HH Dudjom Rinpoche also eastablished [Urgyen Samyé Chöling where he lived and practiced, taught, gave wangs and where he took his parinirvana.
+HH Dudjom Rinpoche also eastablished Urgyen Samyé Chöling where he lived and practiced, taught, gave wangs,    and took his parinirvana.
 
 [**Pemaköd**](pemaköd.md)
 
@@ -91,6 +91,8 @@ and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
 - Yonphula Lhakhang
 
 **Hong Kong**
+
+- [Dudjom Buddhist Association](http://dudjomba.com/)
 
 **India**
 
@@ -128,7 +130,7 @@ and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
 
 - Lama Rong aka Larung Gar, Serta (Upper Ser Valley)
 - Mardo Tashi Chöling Monastery (Golok)
-- Dartsang Kalzang Gonpa aka Dartsang Gonpa (Golok)
+- [Dartsang Kalzang Gonpa aka Dartsang Gonpa (Golok)](http://www.rigpawiki.org/index.php?title=Dartsang_Kalzang_Gompa)
 - Awo Sera Monastery
 - Sichen Monastery
 - Dzagyal Monastery (Dzachukha)
@@ -174,7 +176,7 @@ Poland
 
 Slovakia
 
-- [Lopon Ogyan Tanzin Rinpoche (Vzdelávacie centrum Zaježová )](http://ogyantanzin.blogspot.sk/) & [FB](https://www.facebook.com/groups/132600310197306/)
+- [Lopon Ogyan Tanzin Rinpoche](http://ogyantanzin.blogspot.sk/) & [FB](https://www.facebook.com/groups/132600310197306/)
 
 Spain
 
