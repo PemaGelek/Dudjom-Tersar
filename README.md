@@ -26,6 +26,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Lama David Liu](http://www.clearlight.org/)
 - [Lama Dechen Yeshe Wangmo](http://jnanasukha.org/connect)
 - [Lama Pema Dorje](http://sangchenpemachholing.org/)
+- [Lama Rangbar Nyimai Özer](http://bodhivastu.org/)
 - [Lama Rigdzin P'huntsok](http://pemakoddharmawheel.org/lineage/)
 - [Lama Sonam Tobgay](http://www.tersar.org/teachers-2/lama-sonam-tobgay/)
 - [Lama Sonam Tsering](http://www.vajrayana.org/)
@@ -108,6 +109,7 @@ and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
 
 **Nepal**
 
+- [Dechen Mingyur Ling (Kathmandu Valley)](http://bodhivastu.org/)
 - **Dudjom Gompa (Boudhanath)**
 - [Namkha Khyung Dzong (Humla)](http://namkhyung.org/)
 - [Nyingmapa Wishfulfilling Center for Study and Practice (Kathmandu)](http://dojoling.com/)
@@ -283,6 +285,8 @@ New Jersey
 
 New York
 
+- [Academy of Mantric Disciplines (Poughquag)](http://www.bodhivastu.org/)
+- [Bodhivastu Spiritual Retreat and Healing Sanctuary (Big Indian)](http://bodhivastu.org)
 - [Chagdud Gonpa (Ithaca)](http://chagdudgonpa.org/directory/)
 - [Chagdud Gonpa (Syracuse)](http://chagdudgonpa.org/directory/)
 - [**Dudjom Troma Foundation (NYC)**](http://dudjomtroma.org)
