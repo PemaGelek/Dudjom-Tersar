@@ -55,7 +55,11 @@ HH Dudjom Rinpoche personally founded, lived at, taught at and gave wangs at the
 
 [**Urgyen Samyé Chöling (Dordorgne, France)**](http://www.dudjom-tersar.org/)
 
-HH Dudjom Rinpoche also eastablished Urgyen Samyé Chöling where he lived and practiced, taught, gave wangs,    and took his parinirvana.
+HH Dudjom Rinpoche also eastablished Urgyen Samyé Chöling where he lived and practiced, taught, gave wangs, and took his parinirvana.
+
+[**Urgyen Dongak Chöling (Boudhanath, Nepal)**](http://www.rigpawiki.org/index.php?title=Dudjom_Gompa)
+
+Also known as the Dudjom Gompa, HH Dudjom Rinpoche's reliquary stupa is on display inside the temple and can be circumambulated during the day. This [map](http://www.boudhamap.com/images/Boudha_Map.jpg) is very helpful in finding it.
 
 [**Pemaköd**](pemaköd.md)
 
@@ -103,7 +107,7 @@ and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
 - [Orgyen Samye Chokhor Ling (Sarnath)](http://www.pbcindia.com/)
 - [Padma Samye Chokor Ling (Sarnath)](http://www.padmasambhava.org/centers.html)
 - [**Tekchok Ösel Chöling (Pemakö)**](http://pemakoddharmawheel.org/)
-- Tso Pema Orgyen Heruka Nyingmapa Gompa (Rewalsar)
+- **Tso Pema Orgyen Heruka Nyingmapa Gompa (Rewalsar)**
 - [Urgyen Sangnag Chöling (Spiti)](http://sangnagcholing.org/)
 - **Zangdokpalri Monastery (Kalimpong)**
 
@@ -176,7 +180,7 @@ Poland
 
 Slovakia
 
-- [Lopon Ogyan Tanzin Rinpoche](http://ogyantanzin.blogspot.sk/) & [FB](https://www.facebook.com/groups/132600310197306/)
+- [Lopon Ogyan Tanzin Rinpoche (Zvolen)](http://ogyantanzin.blogspot.sk/) & [FB](https://www.facebook.com/groups/132600310197306/)
 
 Spain
 
@@ -185,10 +189,6 @@ Spain
 - [Centre Mandalas (Figueres)](http://www.centremandala.org)
 - [Communidad Budista Nyingma Tersar (Valencia)](http://www.nyingmatersar.es/)
 - [**Yeshe Nyingpo (Barcelone)**](http://www.dudjom-tersar.org/?p=285)
-
-Switzerland
-
-- [Thegchok Ling (Lausanne)](http://www.rigdzin.ch/)
 
 UK
 
@@ -280,6 +280,7 @@ New Mexico
 
 - [Ösel Khandro Duwi Ling Zuni Mountain Stupa (Grants)](http://www.zunimountainstupa.org/)
 - [Orgyen Choling Dharma Center (Tularosa)](http://www.vairotsana.org/)
+- [Zuni Mountain Stupa](http://zunimountainstupa.org/)
 
 New Jersey
 
@@ -315,7 +316,7 @@ Oregon
 - [Minjur Ling (Ashland)](http://chagdudgonpa.org/directory/)
 - [Natural Mind Dharma Center (Bend)](naturalminddharma.org)
 - [Rigdzin Gatsal (Williams)](http://chagdudgonpa.org/directory/)
-- [Saraha Nyingma Buddhist Institute (Eguene)](http://www.saraha.org/)
+- [Saraha Nyingma Buddhist Institute (Eugene)](http://www.saraha.org/)
 - [Tashi Chöling Center for Buddhist Studies (Ashland)](http://www.tashicholing.org/)
 
 Puerto Rico
