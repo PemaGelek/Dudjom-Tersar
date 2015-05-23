@@ -425,10 +425,11 @@ One should seek a qualified lama before attempting ANY practice!
 - Short Ngondro (text) [1,](http://www.tersar.org/wp-content/uploads/2014/06/ShortNgondro.Original.pdf) [2](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro)
 - [Short Ngondro (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=175)
 - [Short Ngondro (book, tibetan)](http://vimalatreasures.org/concise-dudjom-tersar-ngondro.aspx)
+- [Short Ngondro (audio)](https://soundcloud.com/white-conch-productions/sets/dudjom-tersar-ngondro)
 
 **Calling the Lama from Afar**
 
-- [A Spontaneous Song of the Primordial Nature (text)](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html)
+- [A Spontaneous Song of the Primordial Nature (text)](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html), [(audio)](https://soundcloud.com/white-conch-productions/sets/dudjom-tersar-ngondro)
 
 **Songs and Prayers**
 
@@ -476,7 +477,7 @@ Thinley Norbu Rinpoche
 
 Ven. Gyatrul Rinpoche
 
-- [Commentary to the Dudjom Tersar Preliminary Practice (Book)](http://vimalatreasures.org/commentary-to-the-dudjom-tersar.aspx)
+- [Commentary to the Dudjom Tersar Preliminary Practice (book)](http://vimalatreasures.org/commentary-to-the-dudjom-tersar.aspx)
 
 
 
