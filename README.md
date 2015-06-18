@@ -429,7 +429,7 @@ One should seek a qualified lama before attempting ANY practice!
 
 **Calling the Lama from Afar**
 
-- [A Spontaneous Song of the Primordial Nature (text)](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html), [(audio)](https://soundcloud.com/white-conch-productions/sets/dudjom-tersar-ngondro)
+- [A Spontaneous Song of the Primordial Nature (text)](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html), [(audio 1)](https://soundcloud.com/white-conch-productions/sets/dudjom-tersar-ngondro), [(audio 2)](https://soundcloud.com/white-conch-productions/dudjom-tersar-ngondro-pt-3)
 
 **Songs and Prayers**
 
