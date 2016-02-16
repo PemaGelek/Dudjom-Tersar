@@ -19,6 +19,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [**Dudjom Rinpoche III Sangye Pema Zhepa**](http://www.dudjomspz.org/biography/bb) (Dudjom Rinpoche Yangsi)
 - [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](http://www.dudjomtyd.org) (Dudjom Rinpoche Yangsi)
 - [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
+- [Chakung Jigme Wangdrak Rinpoche](http://www.abhayafellowship.org/)
 - [Dungse Garab Rinpoche](http://www.pramodavajra.org/index.php?do=page&locid=2002&topid=2&tpid=154)
 - [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
 - [Khenpo Tsewang Dongyal Rinpoche](http://www.padmasambhava.org)
@@ -207,6 +208,7 @@ California
 - [Chagdud Gonpa (Chico)](http://chagdudgonpa.org/directory/)
 - [Chagdud Gonpa (San Francisco)](http://chagdudgonpa.org/directory/)
 - [Chhö Khor Ling (Arcata)](http://chagdudgonpa.org/directory/)
+- **[Longsal Ling (El Cerrito)](http://www.abhayafellowship.org/)**
 - [Lotus Dharma Garden (Fairfax)](http://lotusdharmagarden.org)
 - [Orgyen Dorje Den (Alameda)](http://www.orgyendorjeden.org)
 - [Osel Nyingpo (Ojai)](http://www.oselnyingpo.org/)
@@ -501,6 +503,7 @@ Ven. Gyatrul Rinpoche
 - [Rigpa Tibetan Buddhist Google Calendar](https://www.google.com/calendar/embed?src=26ftvg0e75ng7k2qctpocrko3c@group.calendar.google.com)
 - [Rigpa Shedra Wiki](http://www.rigpawiki.org/)
 - [Tsogyal Learning & Practice Center](http://tsogyalonlinecourses.com)
+- [Vajrayana Foundation Ngondro Program](http://dudjomtersarngondro.com/)
 - [Vimala Treasures](http://vimalatreasures.org/)
 
 **Free Text Teachings**
