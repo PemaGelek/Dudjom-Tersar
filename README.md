@@ -40,7 +40,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Ven. Gyaltrul Rinpoche](http://www.tashicholing.org/Gyatrul.html)
 - [Ven. Lama Rinchen Phuntsok](http://www.dongakcholing.org/)
 - [Ven. Lama Tenzin Samphel](http://www.tersar.org/teachers-2/venerable-lama-tenzin-samphel/)
-- [Ven. Rangrik Dorje Rinpoche](http://www.canadathromasangha.com/)
+- [Ven. Rangrig Rinpoche](http://www.canadathromasangha.ca/)
 - [Ven. Tulku Namgay Dawa Rinpoche](http://www.tersar.org/teachers-2/venerable-tulku-namgay-dawa-rinpoche/)  
 
 
