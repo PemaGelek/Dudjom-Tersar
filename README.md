@@ -5,8 +5,8 @@
 This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for more information about their practice or places to practice can have an easily accessible source. Please feel free to help out! You can also join discussion on the list at [DharmaWheel](http://www.dharmawheel.net/viewtopic.php?f=49&t=18946&sid=8b70b0ba57b11022980522c141d6de2c) if you have something to add.
 
 ##Contents
-- [Lamas](##lamas)
-- [Locations](##locations)
+- [Lamas](#lamas)
+- [Locations](#locations)
 - [Texts](#texts)
 - [Books](#books)
 - [Websites](#websites)
