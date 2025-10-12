@@ -15,14 +15,14 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 ## Lamas
 The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
 
-- [**Namgyal Dawa Rinpoche**](http://www.tersar.org) (current lineage holder of the Dudjom Tersar)
+- [**H.H. Dungsey Namgay Dawa Rimpoche**](http://www.tersar.org) 
 - [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](http://www.dudjomtyd.org) (Dudjom Rinpoche Yangsi)
-- [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
 - [Chakung Jigme Wangdrak Rinpoche](http://www.abhayafellowship.org/)
 - [Dungse Garab Rinpoche](http://www.pramodavajra.org/index.php?do=page&locid=2002&topid=2&tpid=154)
 - [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
 - [Khenpo Tsewang Dongyal Rinpoche](http://www.padmasambhava.org)
 - [Khenpo Sonam Tobgyal Rinpoche](http://www.riwoche.com/SonamRinpoche.html)
+- [Kunzang Dechen Chodon](https://www.saraswatipublications.org/)
 - [Lama David Liu](http://www.clearlight.org/)
 - [Lama Dechen Yeshe Wangmo](http://jnanasukha.org/connect)
 - [Lama Pema Dorje](http://sangchenpemachholing.org/)
@@ -35,11 +35,9 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Loppon Jigme Thutop Namgyal](http://lotusdharmagarden.org/Lotus_Dharma_Garden/About_Us.html) 
 - [Tulku Orgyen P’huntsok](http://www.vairotsana.org/)
 - [Ven. Bhakha Tulku Rinpoche](http://www.vairotsana.org/our-teachers/)
-- [Ven. Gyaltrul Rinpoche](http://www.tashicholing.org/Gyatrul.html)
 - [Ven. Lama Rinchen Phuntsok](http://www.dongakcholing.org/)
 - [Ven. Lama Tenzin Samphel](http://www.tersar.org/teachers-2/venerable-lama-tenzin-samphel/)
 - [Ven. Rangrig Rinpoche](http://www.canadathromasangha.ca/)
-- [Ven. Tulku Namgay Dawa Rinpoche](http://www.tersar.org/teachers-2/venerable-tulku-namgay-dawa-rinpoche/)  
 
 
 ## Locations
@@ -50,7 +48,7 @@ The link for each lama is generally their main webpage or reatreat center/monast
 
 [**Yeshe Nyingpo (NYC)**](http://www.tersar.org/?page_id=946) & [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858)	
 
-HH Dudjom Rinpoche personally founded, lived at, taught at and gave wangs at these centers while still alive, so in addition to being under the direction of his self-appointed lineage holder, his own son, they are blessed by his own body speech and mind and are therefore the holiest pilgrimage places one could ever wish for in any of the Americas for a Dudjom practitioner. Also, his wife and spiritual consort Sangyum Kusho Rigdzin Wangmo  entered into parinirvana in the NYC Yeshe Nyingpo center and remained in tukdam there for weeks. 
+HH Dudjom Rinpoche personally founded, lived at, taught at and gave wangs at these centers while still alive, so in addition to being under the direction of his self-appointed lineage holder, his own grandson, they are blessed by his own body speech and mind and are therefore the holiest pilgrimage places one could ever wish for in any of the Americas for a Dudjom practitioner. Also, his wife and spiritual consort Sangyum Kusho Rigdzin Wangmo entered into parinirvana in the NYC Yeshe Nyingpo center and remained in tukdam there for weeks. 
 
 [**Urgyen Samyé Chöling (Dordorgne, France)**](http://www.dudjom-tersar.org/)
 
@@ -58,7 +56,7 @@ HH Dudjom Rinpoche also eastablished Urgyen Samyé Chöling where he lived and p
 
 [**Urgyen Dongak Chöling (Boudhanath, Nepal)**](http://www.rigpawiki.org/index.php?title=Dudjom_Gompa)
 
-Also known as the Dudjom Gompa, HH Dudjom Rinpoche's reliquary stupa is on display inside the temple and can be circumambulated during the day. This [map](http://www.boudhamap.com/images/Boudha_Map.jpg) is very helpful in finding it.
+Also known as the Dudjom Gompa, HH Dudjom Rinpoche's reliquary stupa is on display inside the temple and can be circumambulated during the day. This [map](https://web.archive.org/web/20191221210616/http://boudhamap.com/images/Boudha_Map.pdf) is very helpful in finding it.
 
 [**Pemaköd**](pemaköd.md)
 
