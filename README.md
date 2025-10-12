@@ -16,7 +16,7 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
 
 - [**H.H. Dungsey Namgay Dawa Rimpoche**](http://www.tersar.org) 
-- [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](http://www.dudjomtyd.org) (Dudjom Rinpoche Yangsi)
+- [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](https://dudjomfoundation.org/)
 - [Chakung Jigme Wangdrak Rinpoche](http://www.abhayafellowship.org/)
 - [Dungse Garab Rinpoche](http://www.pramodavajra.org/index.php?do=page&locid=2002&topid=2&tpid=154)
 - [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
