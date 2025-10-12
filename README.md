@@ -15,8 +15,7 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 ## Lamas
 The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
 
-- [**H.H. Dungse Shenphen Dawa Rinpoche**](http://www.tersar.org) (current lineage holder of the Dudjom Tersar)
-- [**Dudjom Rinpoche III Sangye Pema Zhepa**](http://www.dudjomspz.org/biography/bb) (Dudjom Rinpoche Yangsi)
+- [**Namgyal Dawa Rinpoche**](http://www.tersar.org) (current lineage holder of the Dudjom Tersar)
 - [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](http://www.dudjomtyd.org) (Dudjom Rinpoche Yangsi)
 - [Acharya Dawa Chhodak Rinpoche](http://www.saraswatibhawan.org/)
 - [Chakung Jigme Wangdrak Rinpoche](http://www.abhayafellowship.org/)
@@ -27,7 +26,6 @@ The link for each lama is generally their main webpage or reatreat center/monast
 - [Lama David Liu](http://www.clearlight.org/)
 - [Lama Dechen Yeshe Wangmo](http://jnanasukha.org/connect)
 - [Lama Pema Dorje](http://sangchenpemachholing.org/)
-- [Lama Rangbar Nyimai Özer](http://bodhivastu.org/)
 - [Lama Rigdzin P'huntsok](http://pemakoddharmawheel.org/lineage/)
 - [Lama Sonam Tobgay](http://www.tersar.org/teachers-2/lama-sonam-tobgay/)
 - [Lama Sonam Tsering](http://www.vajrayana.org/)
@@ -464,7 +462,7 @@ H.E. Chagdud Tulku Rinpoche
 
 H.H. Dungse Shenphen Dawa Rinpoche
 
-- [Short Ngondro Commentary (text)](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
+- [Short Ngondro Commentary (video series)](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
  
 Khenchen Palden Sherab Rinpoche & Khenpo Tsewang Dongyal Rinpoche
 
