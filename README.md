@@ -1,8 +1,8 @@
-`# Dudjom Tersar
+# Dudjom Tersar
 
 ## Information
 
-This is an attempt to collect all of the dispirate  information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for more information about their practice or places to practice can have an easily accessible source. Please feel free to help out! You can also join discussion on the list at [DharmaWheel](http://www.dharmawheel.net/viewtopic.php?f=49&t=18946&sid=8b70b0ba57b11022980522c141d6de2c) if you have something to add.
+This is an attempt to collect all of the dispirate information about the Dudjom Tersar from across the internet into one easy to manage location so that aspiring practicioners or those looking for more information about their practice or places to practice can have an easily accessible source. Please feel free to help out! You can also join discussion on the list at [DharmaWheel](http://www.dharmawheel.net/viewtopic.php?f=49&t=18946&sid=8b70b0ba57b11022980522c141d6de2c) if you have something to add.
 
 ##Contents
 - [Lamas](#lamas)
@@ -13,10 +13,10 @@ This is an attempt to collect all of the dispirate  information about the Dudjom
 - [Audio & Video](#audio--video)
 
 ## Lamas
-The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. Corrections/additions are welcome.
+The link for each lama is generally their main webpage or reatreat center/monastery. These are teachers that I believe to hold the full Dudjom Tersar. This is certainly not complete. Corrections/additions are welcome.
 
-- [**H.H. Dungsey Namgay Dawa Rimpoche**](http://www.tersar.org) 
 - [**Dudjom Yangsi Tenzin Yeshe Dorje Rinpoche**](https://dudjomfoundation.org/)
+- [**H.H. Dungsey Namgay Dawa Rimpoche**](http://www.tersar.org) 
 - [Chakung Jigme Wangdrak Rinpoche](http://www.abhayafellowship.org/)
 - [Dungse Garab Rinpoche](http://www.pramodavajra.org/index.php?do=page&locid=2002&topid=2&tpid=154)
 - [Dzongsar Jamyang Khyentse Rinpoche](http://www.khyentse.org) 
@@ -64,7 +64,7 @@ The birthplace of HH Dudjom Rinpoche and one of the 108 hidden lands blessed by 
 
 #### Centers of Practice & Retreat
 
-Not every center or group is practicing only the Dudjom Tersar, but I believe each one at the least can be where a beginner could get a  Tersar ngondro iniation, is a practice group affiliated with a  Tersar carrying lama, or conducts Tersar practice retreats. Centers that practice exclusively Dudjom Tersar are in **bold**. 
+Not every center or group is practicing only the Dudjom Tersar, but I believe each one at the least can be where a beginner could get a Tersar ngondro iniation, is a practice group affiliated with a Tersar carrying lama, or conducts Tersar practice retreats. Centers that practice exclusively Dudjom Tersar are in **bold**. 
 
 [MAP](https://www.google.com/maps/d/edit?mid=zuLZC0Jk5ldI.kMbgVwTubtSs) to every location below according to the info available. Tibetan and many Bhutanese locations are currently not pinned. Approximate locations are used when information is unavailable.
 
@@ -75,8 +75,7 @@ Not every center or group is practicing only the Dudjom Tersar, but I believe ea
 - [Mexico](#mexico)
 - [South America](#south-america)
 
-Traditional 3 year retreats are available at [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858), [**Kunzang Gatshal (Delhi, NY)**](http://kunzangatshal.org/),
-and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
+Traditional 3 year retreats are available at [**Orgyen Chö Dzong Retreat Center (Greenville, NY)**](http://www.tersar.org/?page_id=858), [**Kunzang Gatshal (Delhi, NY)**](http://kunzangatshal.org/), and [**Pema Osel Ling (Watsonville, CA)**](http://www.vajrayana.org).
 
 
 
@@ -200,7 +199,6 @@ Alaska
 - [Tromge Ling (Anchorage)](http://www.tromgeling.org/)
 
 California
-
 
 - [Ati Ling (Cazadero)](http://www.atiling.org/)
 - [Chagdud Gonpa (Chico)](http://chagdudgonpa.org/directory/)
@@ -344,7 +342,6 @@ Washington
 - [Chagdud Gonpa (Wenatchee)](http://chagdudgonpa.org/directory/)
 - [Padma Ling (Spokane)](http://chagdudgonpapadmaling.com/)
 - [Siddhartha's Intent (Seattle)](http://northamerica.siddharthasintent.org/urban-groups/seattle/)
-
 
 
 ####Mexico
@@ -513,23 +510,15 @@ Ven. Gyatrul Rinpoche
 
 - [HH Dudjom Rinpoche on Padmasambhava](https://www.youtube.com/watch?v=_YVjohDXxC0)
 - **A Clear Mirror** translator Chonyi Drolma interview on Dudjom Lingpa: [part 1](https://www.youtube.com/watch?v=zvtBGMBXNPc), [part 2](http://www.youtube.com/watch?v=cCTdESPZa3c)
-- [Dzongsar Jamyang Khyentse Podcast](http://www.khyentserecordings.org/namo/Podcasts)
+- [Dzongsar Jamyang Khyentse Podcast](http://www.khyentserecordings.org/namo/Podcasts](https://siddharthasintent.org/recordings-library/)
 - [Vajrayana Foundation on Vimeo](https://vimeo.com/vajrayana)
 
 **Free Teachings**
-
-Dudjom Rinpoche
-
-- [Tersar.org videos](http://www.tersar.org/dudjom-rinpoche-teaching-videos/)
 
 Khenchen Palden Sherab Rinpoche & Khenpo Tsewang Dongyal Rinpoche
 
 - [Empowerment of the Wisdom Dakini Yeshe Tsogyal in the Dudjom Tersar Lineage](http://youtu.be/0OgnbDXqd7s)
 - [Heart Advice to All Practitioners by His Holiness Dudjom Rinpoche](http://youtu.be/KJj-YIHAHqE)
-
-Lama Tharchin Rinpoche
-
-- Calling the Lama from Afar: part [1](https://vimeo.com/103063342), [2](https://vimeo.com/103064198), [3](https://vimeo.com/103064435), [4](https://vimeo.com/103064525)
 
 Lopon Ogyan Tanzin Rinpoche
 	
