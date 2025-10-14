@@ -7,8 +7,7 @@ This is an attempt to collect all of the dispirate information about the Dudjom 
 ##Contents
 - [Lamas](#lamas)
 - [Locations](#locations)
-- [Texts](#texts)
-- [Books](#books)
+- [Texts/Books](#texts)
 - [Websites](#websites)
 - [Audio & Video](#audio--video)
 
