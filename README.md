@@ -410,11 +410,11 @@ Dudjom Tersar texts or related materials and commentaries. Downloadable or web-v
 - [Dudjom Lingpa's collected termas (Dudjom II)](http://tbrc.org/link?RID=W28732)
 - [Rigzin Duddul Dorje's collected termas (Dudjom I)](http://www.tbrc.org/#library_work_Object-W22123)
 
-###### Biographies
+##### Biographies
 **Dudjom Lingpa**
 - [A Clear Mirror (autobiography)](http://www.amazon.com/gp/product/9627341673)
 **Dudjom Rinpoche**
-- [# Light of Fearless Indestructible Wisdom](https://www.shambhala.com/light-of-fearless-indestructible-wisdom-2279.html)
+- [Light of Fearless Indestructible Wisdom](https://www.shambhala.com/light-of-fearless-indestructible-wisdom-2279.html)
 
 ##### Sadhanas
 
