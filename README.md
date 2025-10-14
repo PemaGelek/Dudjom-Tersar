@@ -411,7 +411,11 @@ Dudjom Tersar texts or related materials and commentaries. Downloadable or web-v
 - [Dudjom Lingpa's collected termas (Dudjom II)](http://tbrc.org/link?RID=W28732)
 - [Rigzin Duddul Dorje's collected termas (Dudjom I)](http://www.tbrc.org/#library_work_Object-W22123)
 
-
+###### Biographies
+**Dudjom Lingpa**
+- [A Clear Mirror (autobiography)](http://www.amazon.com/gp/product/9627341673)
+**Dudjom Rinpoche**
+- [# Light of Fearless Indestructible Wisdom](https://www.shambhala.com/light-of-fearless-indestructible-wisdom-2279.html)
 
 ##### Sadhanas
 
@@ -419,20 +423,16 @@ One should seek a qualified lama before attempting ANY practice!
 
 **Ngondro**
  
-- Short Ngondro (text) [1,](http://www.tersar.org/wp-content/uploads/2014/06/ShortNgondro.Original.pdf) [2](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro)
-- [Short Ngondro (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=175)
-- [Short Ngondro (book, tibetan)](http://vimalatreasures.org/concise-dudjom-tersar-ngondro.aspx)
-- [Short Ngondro (audio)](https://soundcloud.com/white-conch-productions/sets/dudjom-tersar-ngondro)
+- Short Ngondro (text) [1,](https://www.dudjomtersar.org/_files/ugd/cdf8a7_c2daebc78e84451fa19e365d764aa6c0.pdf) [2](http://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/dudjom-tersar-ngondro)
+- [Short Ngondro (book)](https://www.padmasambhava.org/product-page/dudjom-tersar-ngondro-preliminary-practices)
+- [Short Ngondro (book, tibetan)](https://vimalatreasures.org/products/concise-dudjom-tersar-ngondro?_pos=5&_sid=2572e498c&_ss=r)
+- [Short Ngondro (audio)](https://soundcloud.com/dudjom-tersar-ngondro)
 
 **Calling the Lama from Afar**
 
-- [A Spontaneous Song of the Primordial Nature (text)](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html), [(audio 1)](https://soundcloud.com/white-conch-productions/sets/dudjom-tersar-ngondro), [(audio 2)](https://soundcloud.com/white-conch-productions/dudjom-tersar-ngondro-pt-3)
+- [A Spontaneous Song of the Primordial Nature (text)](http://www.dudjom.blogspot.in/2007/12/prayer-of-calling-lama-from-afar-for.html), [(audio)](https://soundcloud.com/dudjom-tersar-ngondro/01-ngo-wo-do-nay-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-**Songs and Prayers**
-
-- [The Gathering of the Mandalas of Tara: The Profound Essence Endowed with Eight](http://www.berotsana.org/storage/Tara%20Prayer_web%20Ying%20Rig%20Yermed_9-30-12.pdf)
-- [The Heart Nectar of the Saints: A Prayer of Aspiration that Condenses the Essence of the Oral Teachings](http://www.dudjomspz.org/practices/hns)
-- [The Hum Song](http://www.dudjomspz.org/teachings/hs)
+https://www.dudjomtersar.org/tersar-texts
 
 Anything beyond that will likely require permission to view. Excellent sources of texts and translations include:
 
@@ -453,16 +453,16 @@ Dudjom Rinpoche
  
 H.E. Chagdud Tulku Rinpoche
 	
-- [Ngondro Commentary: Instructions for the Concise Preliminary Practices of the New Treasure of Dudjom (book)](http://www.tibetantreasures.com/Padma_Publishing-Ngondro_Commentary_1.html)
+- [Ngondro Commentary: Instructions for the Concise Preliminary Practices of the New Treasure of Dudjom (book)](https://tibetantreasures.com/products/ngondro-commentary-bongcom?_pos=3&_psq=ngondro&_ss=e&_v=1.0)
 
 H.H. Dungse Shenphen Dawa Rinpoche
 
-- [Short Ngondro Commentary (video series)](http://www.tersar.org/teachings-4/ngondro-teachings-may-2013/)
+- [Short Ngondro Commentary (video series)](https://www.dudjomtersar.org/kyabje-shenphen-dawa-norbu-teachings)
  
 Khenchen Palden Sherab Rinpoche & Khenpo Tsewang Dongyal Rinpoche
 
 - [Short Ngondro Commentary (pdf)](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Kenpo%20Palden%20Sherab%20Rinpoche/Commentary%20On%20Ngondro.pdf/Commentary.pdf)
-- [Illuminating the Path: Ngondro Instructions According to the Nyingma School (book)](http://www.padmasambhava.org/cart/catalog/product_info.php?products_id=105)
+- [Illuminating the Path: Ngondro Instructions According to the Nyingma School (book)](https://www.padmasambhava.org/product-page/illuminating-the-path-ngondro-instructions-according-to-the-nyingma-school)
 
 Lama Tharchin Rinpoche
 
@@ -470,24 +470,12 @@ Lama Tharchin Rinpoche
 
 Thinley Norbu Rinpoche
 
-- [A Cascading Waterfall of Nectar (book)](http://www.shambhala.com/a-cascading-waterfall-of-nectar.html)
+- [A Cascading Waterfall of Nectar (book)](https://www.shambhala.com/a-cascading-waterfall-of-nectar-337.html)
 
 Ven. Gyatrul Rinpoche
 
-- [Commentary to the Dudjom Tersar Preliminary Practice (book)](http://vimalatreasures.org/commentary-to-the-dudjom-tersar.aspx)
+- [Commentary to the Dudjom Tersar Preliminary Practice (book)](https://vimalatreasures.org/products/commentary-to-the-dudjom-tersar?_pos=3&_psq=dudjom+tersar&_ss=e&_v=1.0)
 
-
-
-## Books
-**Dudjom Lingpa**
-
-- [Buddhahood Without Meditation: A Visionary Account Known As Refining Apparent Phenomen](http://www.amazon.com/Buddhahood-Without-Meditation-Visionary-Refining/dp/1881847330)
-- [A Clear Mirror (autobiography)](http://www.amazon.com/gp/product/9627341673)
-
-
-**B. Alan Wallace**
-
-- [Stilling the Mind: Shamatha Teachings from Dudjom Lingpa's Vajra Essence](http://www.amazon.com/Stilling-Mind-Shamatha-Teachings-Lingpas/dp/0861716906/)
 
 
 ## Websites
@@ -510,24 +498,27 @@ Ven. Gyatrul Rinpoche
 
 - [HH Dudjom Rinpoche on Padmasambhava](https://www.youtube.com/watch?v=_YVjohDXxC0)
 - **A Clear Mirror** translator Chonyi Drolma interview on Dudjom Lingpa: [part 1](https://www.youtube.com/watch?v=zvtBGMBXNPc), [part 2](http://www.youtube.com/watch?v=cCTdESPZa3c)
-- [Dzongsar Jamyang Khyentse Podcast](http://www.khyentserecordings.org/namo/Podcasts](https://siddharthasintent.org/recordings-library/)
+- [Dzongsar Jamyang Khyentse Podcast](http://www.khyentserecordings.org/namo/Podcasts%5D(https://siddharthasintent.org/recordings-library/))
 - [Vajrayana Foundation on Vimeo](https://vimeo.com/vajrayana)
 
 **Free Teachings**
+
+Dudjom Rinpoche
+
+- [Tersar.org videos](http://www.tersar.org/dudjom-rinpoche-teaching-videos/)
 
 Khenchen Palden Sherab Rinpoche & Khenpo Tsewang Dongyal Rinpoche
 
 - [Empowerment of the Wisdom Dakini Yeshe Tsogyal in the Dudjom Tersar Lineage](http://youtu.be/0OgnbDXqd7s)
 - [Heart Advice to All Practitioners by His Holiness Dudjom Rinpoche](http://youtu.be/KJj-YIHAHqE)
 
+Lama Tharchin Rinpoche
+
+- Calling the Lama from Afar: part [1](https://vimeo.com/103063342), [2](https://vimeo.com/103064198), [3](https://vimeo.com/103064435), [4](https://vimeo.com/103064525)
+
 Lopon Ogyan Tanzin Rinpoche
 	
 - [Dudjom Rinpoche & the Ngakpa tradition](http://youtu.be/ybvYDx4SdAE)
-
-
-
-## Images
-
 
 
 
